@@ -1,0 +1,3011 @@
+precinct,education,estimate,units
+410050000,"9th to 12th grade, no diploma",0.269493,People
+410050000,Associate's degree,68.2086,People
+410050000,Bachelor's degree,728.744057,People
+410050000,Graduate or professional degree,482.227994,People
+410050000,High school graduate (includes equivalency),90.735631,People
+410050000,Less than 9th grade,0.714437,People
+410050000,"Some college, no degree",204.099863,People
+410050001,"9th to 12th grade, no diploma",85.149823,People
+410050001,Associate's degree,192.92685400000002,People
+410050001,Bachelor's degree,335.811612,People
+410050001,Graduate or professional degree,142.526453,People
+410050001,High school graduate (includes equivalency),478.59704,People
+410050001,Less than 9th grade,24.578282,People
+410050001,"Some college, no degree",458.23315,People
+410050002,"9th to 12th grade, no diploma",45.813966,People
+410050002,Associate's degree,113.613823,People
+410050002,Bachelor's degree,246.985142,People
+410050002,Graduate or professional degree,81.704985,People
+410050002,High school graduate (includes equivalency),249.35501,People
+410050002,Less than 9th grade,13.387356,People
+410050002,"Some college, no degree",307.56971400000003,People
+410050003,"9th to 12th grade, no diploma",167.604754,People
+410050003,Associate's degree,172.78427299999998,People
+410050003,Bachelor's degree,282.028774,People
+410050003,Graduate or professional degree,130.768391,People
+410050003,High school graduate (includes equivalency),668.0132669999999,People
+410050003,Less than 9th grade,29.394609999999997,People
+410050003,"Some college, no degree",533.342427,People
+410050004,"9th to 12th grade, no diploma",231.490625,People
+410050004,Associate's degree,607.927225,People
+410050004,Bachelor's degree,1354.746897,People
+410050004,Graduate or professional degree,395.529036,People
+410050004,High school graduate (includes equivalency),1337.196375,People
+410050004,Less than 9th grade,273.525756,People
+410050004,"Some college, no degree",1685.003431,People
+410050005,"9th to 12th grade, no diploma",119.80835,People
+410050005,Associate's degree,259.882788,People
+410050005,Bachelor's degree,428.798565,People
+410050005,Graduate or professional degree,147.047328,People
+410050005,High school graduate (includes equivalency),582.092789,People
+410050005,Less than 9th grade,54.75563,People
+410050005,"Some college, no degree",705.287569,People
+410050006,"9th to 12th grade, no diploma",153.95099299999998,People
+410050006,Associate's degree,374.882793,People
+410050006,Bachelor's degree,603.712922,People
+410050006,Graduate or professional degree,167.677189,People
+410050006,High school graduate (includes equivalency),806.017863,People
+410050006,Less than 9th grade,48.22148,People
+410050006,"Some college, no degree",1046.7738729999999,People
+410050007,"9th to 12th grade, no diploma",144.19074,People
+410050007,Associate's degree,267.39263900000003,People
+410050007,Bachelor's degree,386.255407,People
+410050007,Graduate or professional degree,146.344954,People
+410050007,High school graduate (includes equivalency),609.940825,People
+410050007,Less than 9th grade,50.007437,People
+410050007,"Some college, no degree",758.292308,People
+410050010,"9th to 12th grade, no diploma",38,People
+410050010,Associate's degree,444,People
+410050010,Bachelor's degree,734,People
+410050010,Graduate or professional degree,258,People
+410050010,High school graduate (includes equivalency),582,People
+410050010,Less than 9th grade,50,People
+410050010,"Some college, no degree",556,People
+410050031,"9th to 12th grade, no diploma",101.44601899999999,People
+410050031,Associate's degree,209.29274999999998,People
+410050031,Bachelor's degree,320.81350799999996,People
+410050031,Graduate or professional degree,100.34363099999999,People
+410050031,High school graduate (includes equivalency),445.673265,People
+410050031,Less than 9th grade,44.275051,People
+410050031,"Some college, no degree",559.9441009999999,People
+410050032,"9th to 12th grade, no diploma",109.097266,People
+410050032,Associate's degree,148.07146400000002,People
+410050032,Bachelor's degree,300.313212,People
+410050032,Graduate or professional degree,61.242008000000006,People
+410050032,High school graduate (includes equivalency),327.936726,People
+410050032,Less than 9th grade,10.018092,People
+410050032,"Some college, no degree",477.380814,People
+410050033,"9th to 12th grade, no diploma",103.238891,People
+410050033,Associate's degree,145.979719,People
+410050033,Bachelor's degree,345.650603,People
+410050033,Graduate or professional degree,62.840292,People
+410050033,High school graduate (includes equivalency),436.70165199999997,People
+410050033,Less than 9th grade,0.479928,People
+410050033,"Some college, no degree",374.943081,People
+410050051,"9th to 12th grade, no diploma",26.914717,People
+410050051,Associate's degree,108.034559,People
+410050051,Bachelor's degree,310.800028,People
+410050051,Graduate or professional degree,186.03846700000003,People
+410050051,High school graduate (includes equivalency),169.128863,People
+410050051,Less than 9th grade,8.878225,People
+410050051,"Some college, no degree",298.670322,People
+410050052,"9th to 12th grade, no diploma",66.86499,People
+410050052,Associate's degree,93.23417,People
+410050052,Bachelor's degree,371.772803,People
+410050052,Graduate or professional degree,146.436417,People
+410050052,High school graduate (includes equivalency),431.99946800000004,People
+410050052,Less than 9th grade,3.3013879999999998,People
+410050052,"Some college, no degree",394.543275,People
+410050053,"9th to 12th grade, no diploma",50.298845,People
+410050053,Associate's degree,98.778676,People
+410050053,Bachelor's degree,204.48802899999998,People
+410050053,Graduate or professional degree,124.619259,People
+410050053,High school graduate (includes equivalency),251.652474,People
+410050053,Less than 9th grade,13.482404,People
+410050053,"Some college, no degree",325.511263,People
+410050054,"9th to 12th grade, no diploma",68.049144,People
+410050054,Associate's degree,122.241288,People
+410050054,Bachelor's degree,406.54646099999997,People
+410050054,Graduate or professional degree,205.62909199999999,People
+410050054,High school graduate (includes equivalency),335.002512,People
+410050054,Less than 9th grade,12.332234,People
+410050054,"Some college, no degree",362.109576,People
+410050055,"9th to 12th grade, no diploma",65.542121,People
+410050055,Associate's degree,104.938337,People
+410050055,Bachelor's degree,222.80975600000002,People
+410050055,Graduate or professional degree,76.350469,People
+410050055,High school graduate (includes equivalency),335.004612,People
+410050055,Less than 9th grade,23.815089999999998,People
+410050055,"Some college, no degree",394.87348299999996,People
+410050070,"9th to 12th grade, no diploma",32,People
+410050070,Associate's degree,138,People
+410050070,Bachelor's degree,1356,People
+410050070,Graduate or professional degree,1198,People
+410050070,High school graduate (includes equivalency),128,People
+410050070,Less than 9th grade,0,People
+410050070,"Some college, no degree",460,People
+410050071,"9th to 12th grade, no diploma",8.000367,People
+410050071,Associate's degree,150.99794599999998,People
+410050071,Bachelor's degree,388.00086999999996,People
+410050071,Graduate or professional degree,213.998374,People
+410050071,High school graduate (includes equivalency),122.00105599999999,People
+410050071,Less than 9th grade,11.000964,People
+410050071,"Some college, no degree",279.00070900000003,People
+410050072,"9th to 12th grade, no diploma",400.529768,People
+410050072,Associate's degree,395.775492,People
+410050072,Bachelor's degree,1892.29321,People
+410050072,Graduate or professional degree,730.793086,People
+410050072,High school graduate (includes equivalency),2377.308498,People
+410050072,Less than 9th grade,108.50943899999999,People
+410050072,"Some college, no degree",1986.791272,People
+410050073,"9th to 12th grade, no diploma",340.078378,People
+410050073,Associate's degree,884.3445800000001,People
+410050073,Bachelor's degree,2719.434525,People
+410050073,Graduate or professional degree,1880.567336,People
+410050073,High school graduate (includes equivalency),1470.930387,People
+410050073,Less than 9th grade,412.372003,People
+410050073,"Some college, no degree",2345.489505,People
+410050074,"9th to 12th grade, no diploma",95.01664199999999,People
+410050074,Associate's degree,164.111156,People
+410050074,Bachelor's degree,555.051496,People
+410050074,Graduate or professional degree,389.02355,People
+410050074,High school graduate (includes equivalency),244.178666,People
+410050074,Less than 9th grade,15.046785999999999,People
+410050074,"Some college, no degree",371.18023600000004,People
+410050100,"9th to 12th grade, no diploma",1.225098,People
+410050100,Associate's degree,46.51062,People
+410050100,Bachelor's degree,434.735318,People
+410050100,Graduate or professional degree,243.72995,People
+410050100,High school graduate (includes equivalency),176.241118,People
+410050100,Less than 9th grade,0.697368,People
+410050100,"Some college, no degree",223.646214,People
+410050101,"9th to 12th grade, no diploma",144.950167,People
+410050101,Associate's degree,659.414077,People
+410050101,Bachelor's degree,1732.062537,People
+410050101,Graduate or professional degree,980.263546,People
+410050101,High school graduate (includes equivalency),1083.425682,People
+410050101,Less than 9th grade,89.825179,People
+410050101,"Some college, no degree",1545.996144,People
+410050102,"9th to 12th grade, no diploma",180.65478399999998,People
+410050102,Associate's degree,464.420826,People
+410050102,Bachelor's degree,862.743472,People
+410050102,Graduate or professional degree,349.112455,People
+410050102,High school graduate (includes equivalency),1039.608978,People
+410050102,Less than 9th grade,94.012883,People
+410050102,"Some college, no degree",1056.664157,People
+410050103,"9th to 12th grade, no diploma",170.699187,People
+410050103,Associate's degree,386.846089,People
+410050103,Bachelor's degree,1348.696761,People
+410050103,Graduate or professional degree,945.80698400000006,People
+410050103,High school graduate (includes equivalency),568.339464,People
+410050103,Less than 9th grade,79.09546800000001,People
+410050103,"Some college, no degree",939.2339430000001,People
+410050104,"9th to 12th grade, no diploma",201.154224,People
+410050104,Associate's degree,477.75275999999997,People
+410050104,Bachelor's degree,1583.858008,People
+410050104,Graduate or professional degree,980.529984,People
+410050104,High school graduate (includes equivalency),827.84456,People
+410050104,Less than 9th grade,69.40392,People
+410050104,"Some college, no degree",1106.7711199999999,People
+410050105,"9th to 12th grade, no diploma",198.226125,People
+410050105,Associate's degree,422.219299,People
+410050105,Bachelor's degree,1453.930751,People
+410050105,Graduate or professional degree,680.8149900000001,People
+410050105,High school graduate (includes equivalency),1047.55332,People
+410050105,Less than 9th grade,30.252708,People
+410050105,"Some college, no degree",1285.75918,People
+410050106,"9th to 12th grade, no diploma",145.054238,People
+410050106,Associate's degree,160.2243,People
+410050106,Bachelor's degree,219.024272,People
+410050106,Graduate or professional degree,87.055536,People
+410050106,High school graduate (includes equivalency),503.53950999999995,People
+410050106,Less than 9th grade,25.194858,People
+410050106,"Some college, no degree",393.414568,People
+410050107,"9th to 12th grade, no diploma",364.904187,People
+410050107,Associate's degree,674.93923,People
+410050107,Bachelor's degree,442.831657,People
+410050107,Graduate or professional degree,230.32116100000002,People
+410050107,High school graduate (includes equivalency),1177.741789,People
+410050107,Less than 9th grade,26.455573,People
+410050107,"Some college, no degree",1202.913271,People
+410050108,"9th to 12th grade, no diploma",350.227144,People
+410050108,Associate's degree,752.191393,People
+410050108,Bachelor's degree,726.8760599999999,People
+410050108,Graduate or professional degree,365.23313599999994,People
+410050108,High school graduate (includes equivalency),1320.847752,People
+410050108,Less than 9th grade,24.215962,People
+410050108,"Some college, no degree",1663.415696,People
+410050111,"9th to 12th grade, no diploma",130.708975,People
+410050111,Associate's degree,322.81949,People
+410050111,Bachelor's degree,211.38614900000002,People
+410050111,Graduate or professional degree,53.245892999999995,People
+410050111,High school graduate (includes equivalency),638.235678,People
+410050111,Less than 9th grade,36.5691,People
+410050111,"Some college, no degree",753.666782,People
+410050122,"9th to 12th grade, no diploma",79.1346,People
+410050122,Associate's degree,180.618632,People
+410050122,Bachelor's degree,433.73312599999997,People
+410050122,Graduate or professional degree,161.47212,People
+410050122,High school graduate (includes equivalency),527.704889,People
+410050122,Less than 9th grade,34.959659,People
+410050122,"Some college, no degree",606.143437,People
+410050124,"9th to 12th grade, no diploma",45.517089,People
+410050124,Associate's degree,113.43451200000001,People
+410050124,Bachelor's degree,300.194112,People
+410050124,Graduate or professional degree,108.727697,People
+410050124,High school graduate (includes equivalency),309.528508,People
+410050124,Less than 9th grade,10.623664,People
+410050124,"Some college, no degree",419.098783,People
+410050125,"9th to 12th grade, no diploma",62.683043000000005,People
+410050125,Associate's degree,129.374732,People
+410050125,Bachelor's degree,204.364373,People
+410050125,Graduate or professional degree,102.853119,People
+410050125,High school graduate (includes equivalency),340.709518,People
+410050125,Less than 9th grade,41.765973,People
+410050125,"Some college, no degree",349.349302,People
+410050130,"9th to 12th grade, no diploma",51.194812,People
+410050130,Associate's degree,153.626015,People
+410050130,Bachelor's degree,729.590955,People
+410050130,Graduate or professional degree,412.195645,People
+410050130,High school graduate (includes equivalency),220.125271,People
+410050130,Less than 9th grade,13.418087,People
+410050130,"Some college, no degree",436.24915999999996,People
+410050131,"9th to 12th grade, no diploma",80.159987,People
+410050131,Associate's degree,114.398787,People
+410050131,Bachelor's degree,504.288639,People
+410050131,Graduate or professional degree,266.656704,People
+410050131,High school graduate (includes equivalency),170.525713,People
+410050131,Less than 9th grade,9.603003000000001,People
+410050131,"Some college, no degree",283.234673,People
+410050132,"9th to 12th grade, no diploma",114.332525,People
+410050132,Associate's degree,243.468125,People
+410050132,Bachelor's degree,761.992471,People
+410050132,Graduate or professional degree,414.507294,People
+410050132,High school graduate (includes equivalency),343.92171999999994,People
+410050132,Less than 9th grade,32.762259,People
+410050132,"Some college, no degree",419.286393,People
+410050133,"9th to 12th grade, no diploma",60.737419,People
+410050133,Associate's degree,172.588985,People
+410050133,Bachelor's degree,703.860523,People
+410050133,Graduate or professional degree,412.267387,People
+410050133,High school graduate (includes equivalency),235.81256299999998,People
+410050133,Less than 9th grade,17.180885,People
+410050133,"Some college, no degree",403.593009,People
+410050134,"9th to 12th grade, no diploma",27.262843,People
+410050134,Associate's degree,54.513685,People
+410050134,Bachelor's degree,464.51232,People
+410050134,Graduate or professional degree,363.680447,People
+410050134,High school graduate (includes equivalency),147.277259,People
+410050134,Less than 9th grade,6.241392,People
+410050134,"Some college, no degree",182.597293,People
+410050135,"9th to 12th grade, no diploma",42.03989,People
+410050135,Associate's degree,67.942364,People
+410050135,Bachelor's degree,583.223614,People
+410050135,Graduate or professional degree,425.385971,People
+410050135,High school graduate (includes equivalency),182.858149,People
+410050135,Less than 9th grade,14.246934999999999,People
+410050135,"Some college, no degree",360.90216699999996,People
+410050151,"9th to 12th grade, no diploma",46.147785999999996,People
+410050151,Associate's degree,185.274201,People
+410050151,Bachelor's degree,1842.069288,People
+410050151,Graduate or professional degree,1604.83952,People
+410050151,High school graduate (includes equivalency),186.095292,People
+410050151,Less than 9th grade,0.003232,People
+410050151,"Some college, no degree",615.231684,People
+410050152,"9th to 12th grade, no diploma",7.6825980000000005,People
+410050152,Associate's degree,46.649472,People
+410050152,Bachelor's degree,360.036927,People
+410050152,Graduate or professional degree,304.022829,People
+410050152,High school graduate (includes equivalency),69.77329900000001,People
+410050152,Less than 9th grade,3.572051,People
+410050152,"Some college, no degree",142.13368300000002,People
+410050153,"9th to 12th grade, no diploma",40.254487999999995,People
+410050153,Associate's degree,91.768919,People
+410050153,Bachelor's degree,509.53525299999995,People
+410050153,Graduate or professional degree,311.884161,People
+410050153,High school graduate (includes equivalency),171.277278,People
+410050153,Less than 9th grade,5.239508000000001,People
+410050153,"Some college, no degree",184.354931,People
+410050154,"9th to 12th grade, no diploma",46.363207,People
+410050154,Associate's degree,69.22955900000001,People
+410050154,Bachelor's degree,599.0688650000001,People
+410050154,Graduate or professional degree,584.3227410000001,People
+410050154,High school graduate (includes equivalency),208.69235600000002,People
+410050154,Less than 9th grade,8.147769,People
+410050154,"Some college, no degree",248.62663,People
+410050155,"9th to 12th grade, no diploma",17.497925,People
+410050155,Associate's degree,71.399385,People
+410050155,Bachelor's degree,529.201162,People
+410050155,Graduate or professional degree,342.376784,People
+410050155,High school graduate (includes equivalency),74.335888,People
+410050155,Less than 9th grade,0.043175000000000005,People
+410050155,"Some college, no degree",174.017911,People
+410050156,"9th to 12th grade, no diploma",1.2925060000000002,People
+410050156,Associate's degree,57.761722,People
+410050156,Bachelor's degree,536.916793,People
+410050156,Graduate or professional degree,378.206577,People
+410050156,High school graduate (includes equivalency),61.728259,People
+410050156,Less than 9th grade,0.425739,People
+410050156,"Some college, no degree",290.210905,People
+410050157,"9th to 12th grade, no diploma",12.032996,People
+410050157,Associate's degree,49.604175,People
+410050157,Bachelor's degree,553.931056,People
+410050157,Graduate or professional degree,390.407231,People
+410050157,High school graduate (includes equivalency),120.892649,People
+410050157,Less than 9th grade,15.629736,People
+410050157,"Some college, no degree",233.559429,People
+410050158,"9th to 12th grade, no diploma",33.437773,People
+410050158,Associate's degree,54.594378000000006,People
+410050158,Bachelor's degree,535.890405,People
+410050158,Graduate or professional degree,371.554597,People
+410050158,High school graduate (includes equivalency),142.60655599999998,People
+410050158,Less than 9th grade,7.806949,People
+410050158,"Some college, no degree",233.924277,People
+410050159,"9th to 12th grade, no diploma",22.410023000000002,People
+410050159,Associate's degree,65.134986,People
+410050159,Bachelor's degree,705.810727,People
+410050159,Graduate or professional degree,393.679849,People
+410050159,High school graduate (includes equivalency),140.686838,People
+410050159,Less than 9th grade,13.072162,People
+410050159,"Some college, no degree",204.787761,People
+410050160,"9th to 12th grade, no diploma",70.354111,People
+410050160,Associate's degree,99.5013,People
+410050160,Bachelor's degree,932.1024620000001,People
+410050160,Graduate or professional degree,624.559745,People
+410050160,High school graduate (includes equivalency),352.52919,People
+410050160,Less than 9th grade,33.802802,People
+410050160,"Some college, no degree",609.881476,People
+410050201,"9th to 12th grade, no diploma",25.357138,People
+410050201,Associate's degree,192.37773199999998,People
+410050201,Bachelor's degree,824.6376170000001,People
+410050201,Graduate or professional degree,413.396227,People
+410050201,High school graduate (includes equivalency),447.357663,People
+410050201,Less than 9th grade,13.732768,People
+410050201,"Some college, no degree",668.273801,People
+410050202,"9th to 12th grade, no diploma",94.785642,People
+410050202,Associate's degree,234.21657199999999,People
+410050202,Bachelor's degree,712.480591,People
+410050202,Graduate or professional degree,271.546891,People
+410050202,High school graduate (includes equivalency),334.616257,People
+410050202,Less than 9th grade,6.812571,People
+410050202,"Some college, no degree",578.423161,People
+410050203,"9th to 12th grade, no diploma",0.35229900000000003,People
+410050203,Associate's degree,19.384794,People
+410050203,Bachelor's degree,437.90606099999997,People
+410050203,Graduate or professional degree,351.102153,People
+410050203,High school graduate (includes equivalency),178.048511,People
+410050203,Less than 9th grade,3.076685,People
+410050203,"Some college, no degree",249.288244,People
+410050204,"9th to 12th grade, no diploma",77.785834,People
+410050204,Associate's degree,151.50614199999998,People
+410050204,Bachelor's degree,633.2298499999999,People
+410050204,Graduate or professional degree,300.41902,People
+410050204,High school graduate (includes equivalency),335.345426,People
+410050204,Less than 9th grade,26.722292999999997,People
+410050204,"Some college, no degree",570.133839,People
+410050251,"9th to 12th grade, no diploma",74.84767500000001,People
+410050251,Associate's degree,170.627319,People
+410050251,Bachelor's degree,770.4017020000001,People
+410050251,Graduate or professional degree,503.081187,People
+410050251,High school graduate (includes equivalency),236.510781,People
+410050251,Less than 9th grade,0.019944,People
+410050251,"Some college, no degree",416.27991299999996,People
+410050252,"9th to 12th grade, no diploma",82.182676,People
+410050252,Associate's degree,230.222338,People
+410050252,Bachelor's degree,1370.772248,People
+410050252,Graduate or professional degree,984.4425160000001,People
+410050252,High school graduate (includes equivalency),410.596758,People
+410050252,Less than 9th grade,1.677596,People
+410050252,"Some college, no degree",654.531583,People
+410050280,"9th to 12th grade, no diploma",862.099764,People
+410050280,Associate's degree,1570.254941,People
+410050280,Bachelor's degree,8768.415845,People
+410050280,Graduate or professional degree,5326.35176,People
+410050280,High school graduate (includes equivalency),3614.24308,People
+410050280,Less than 9th grade,45.928889,People
+410050280,"Some college, no degree",5432.213427,People
+410050281,"9th to 12th grade, no diploma",339.622565,People
+410050281,Associate's degree,495.039343,People
+410050281,Bachelor's degree,2305.928007,People
+410050281,Graduate or professional degree,848.135905,People
+410050281,High school graduate (includes equivalency),1501.730516,People
+410050281,Less than 9th grade,88.195226,People
+410050281,"Some college, no degree",2337.4682629999998,People
+410050282,"9th to 12th grade, no diploma",95.984309,People
+410050282,Associate's degree,126.990276,People
+410050282,Bachelor's degree,484.019448,People
+410050282,Graduate or professional degree,397.985635,People
+410050282,High school graduate (includes equivalency),205.997127,People
+410050282,Less than 9th grade,0.001768,People
+410050282,"Some college, no degree",182.045084,People
+410050283,"9th to 12th grade, no diploma",351.262242,People
+410050283,Associate's degree,1515.908876,People
+410050283,Bachelor's degree,14894.681296,People
+410050283,Graduate or professional degree,13160.666302,People
+410050283,High school graduate (includes equivalency),1409.028666,People
+410050283,Less than 9th grade,0.741244,People
+410050283,"Some college, no degree",5060.0252629999995,People
+410050320,"9th to 12th grade, no diploma",1095.632116,People
+410050320,Associate's degree,2698.938656,People
+410050320,Bachelor's degree,11652.249892,People
+410050320,Graduate or professional degree,7270.722622,People
+410050320,High school graduate (includes equivalency),4066.272363,People
+410050320,Less than 9th grade,328.179921,People
+410050320,"Some college, no degree",6737.443549,People
+410050321,"9th to 12th grade, no diploma",60.113603999999995,People
+410050321,Associate's degree,60.912915,People
+410050321,Bachelor's degree,457.268326,People
+410050321,Graduate or professional degree,253.88899299999997,People
+410050321,High school graduate (includes equivalency),145.587301,People
+410050321,Less than 9th grade,0.055785999999999995,People
+410050321,"Some college, no degree",273.678189,People
+410050322,"9th to 12th grade, no diploma",25.337793,People
+410050322,Associate's degree,53.830805000000005,People
+410050322,Bachelor's degree,261.677789,People
+410050322,Graduate or professional degree,154.192959,People
+410050322,High school graduate (includes equivalency),84.87538500000001,People
+410050322,Less than 9th grade,0.098377,People
+410050322,"Some college, no degree",139.07806,People
+410050323,"9th to 12th grade, no diploma",327.282922,People
+410050323,Associate's degree,895.3485019999999,People
+410050323,Bachelor's degree,2744.866468,People
+410050323,Graduate or professional degree,1338.212915,People
+410050323,High school graduate (includes equivalency),1553.681641,People
+410050323,Less than 9th grade,6.324292,People
+410050323,"Some college, no degree",2617.941139,People
+410050330,"9th to 12th grade, no diploma",39.978198,People
+410050330,Associate's degree,124.98474,People
+410050330,Bachelor's degree,218.83820200000002,People
+410050330,Graduate or professional degree,104.741744,People
+410050330,High school graduate (includes equivalency),461.56372000000005,People
+410050330,Less than 9th grade,81.46880300000001,People
+410050330,"Some college, no degree",329.48474500000003,People
+410050331,"9th to 12th grade, no diploma",48.433671999999994,People
+410050331,Associate's degree,39.507049,People
+410050331,Bachelor's degree,81.298881,People
+410050331,Graduate or professional degree,51.437349999999995,People
+410050331,High school graduate (includes equivalency),97.22404999999999,People
+410050331,Less than 9th grade,41.761027,People
+410050331,"Some college, no degree",260.829994,People
+410050332,"9th to 12th grade, no diploma",2.7366810000000004,People
+410050332,Associate's degree,76.78070000000001,People
+410050332,Bachelor's degree,170.09160500000002,People
+410050332,Graduate or professional degree,43.250953,People
+410050332,High school graduate (includes equivalency),52.51283900000001,People
+410050332,Less than 9th grade,0.20449,People
+410050332,"Some college, no degree",167.964726,People
+410050333,"9th to 12th grade, no diploma",611.345928,People
+410050333,Associate's degree,1289.128702,People
+410050333,Bachelor's degree,3229.275328,People
+410050333,Graduate or professional degree,1183.556813,People
+410050333,High school graduate (includes equivalency),3724.317468,People
+410050333,Less than 9th grade,204.122969,People
+410050333,"Some college, no degree",4233.700012,People
+410050350,"9th to 12th grade, no diploma",80.546212,People
+410050350,Associate's degree,118.51366300000001,People
+410050350,Bachelor's degree,189.28013,People
+410050350,Graduate or professional degree,66.509633,People
+410050350,High school graduate (includes equivalency),486.20297100000005,People
+410050350,Less than 9th grade,4.028589,People
+410050350,"Some college, no degree",337.262358,People
+410050351,"9th to 12th grade, no diploma",2916.360961,People
+410050351,Associate's degree,7176.74505,People
+410050351,Bachelor's degree,4215.873207,People
+410050351,Graduate or professional degree,1228.230363,People
+410050351,High school graduate (includes equivalency),15174.380665,People
+410050351,Less than 9th grade,1176.99788,People
+410050351,"Some college, no degree",17929.465645,People
+410050352,"9th to 12th grade, no diploma",40.98021,People
+410050352,Associate's degree,78.665722,People
+410050352,Bachelor's degree,178.72650099999998,People
+410050352,Graduate or professional degree,39.988922,People
+410050352,High school graduate (includes equivalency),302.241781,People
+410050352,Less than 9th grade,17.105314,People
+410050352,"Some college, no degree",282.979628,People
+410050360,"9th to 12th grade, no diploma",752.744738,People
+410050360,Associate's degree,967.946291,People
+410050360,Bachelor's degree,1244.136809,People
+410050360,Graduate or professional degree,479.871271,People
+410050360,High school graduate (includes equivalency),2861.674985,People
+410050360,Less than 9th grade,88.200267,People
+410050360,"Some college, no degree",2510.017725,People
+410050361,"9th to 12th grade, no diploma",11.190198,People
+410050361,Associate's degree,0.507866,People
+410050361,Bachelor's degree,15.426390999999999,People
+410050361,Graduate or professional degree,0.258625,People
+410050361,High school graduate (includes equivalency),13.490963,People
+410050361,Less than 9th grade,0.085494,People
+410050361,"Some college, no degree",8.137804,People
+410050362,"9th to 12th grade, no diploma",88.80111,People
+410050362,Associate's degree,69.774669,People
+410050362,Bachelor's degree,136.596662,People
+410050362,Graduate or professional degree,87.473801,People
+410050362,High school graduate (includes equivalency),259.086736,People
+410050362,Less than 9th grade,10.445176,People
+410050362,"Some college, no degree",328.000837,People
+410050363,"9th to 12th grade, no diploma",92.50264200000001,People
+410050363,Associate's degree,68.575506,People
+410050363,Bachelor's degree,48.808222,People
+410050363,Graduate or professional degree,69.19172,People
+410050363,High school graduate (includes equivalency),488.872026,People
+410050363,Less than 9th grade,18.115304,People
+410050363,"Some college, no degree",159.104854,People
+410050364,"9th to 12th grade, no diploma",164.93388000000002,People
+410050364,Associate's degree,127.678586,People
+410050364,Bachelor's degree,157.504517,People
+410050364,Graduate or professional degree,61.629808000000004,People
+410050364,High school graduate (includes equivalency),413.052909,People
+410050364,Less than 9th grade,15.41488,People
+410050364,"Some college, no degree",310.064059,People
+410050370,"9th to 12th grade, no diploma",133.12329499999998,People
+410050370,Associate's degree,166.31036799999998,People
+410050370,Bachelor's degree,235.434253,People
+410050370,Graduate or professional degree,129.446508,People
+410050370,High school graduate (includes equivalency),408.38595200000003,People
+410050370,Less than 9th grade,6.273732,People
+410050370,"Some college, no degree",499.885356,People
+410050371,"9th to 12th grade, no diploma",1095.867541,People
+410050371,Associate's degree,2999.5987,People
+410050371,Bachelor's degree,2940.556676,People
+410050371,Graduate or professional degree,1384.189888,People
+410050371,High school graduate (includes equivalency),5038.826689,People
+410050371,Less than 9th grade,105.477613,People
+410050371,"Some college, no degree",6264.388473,People
+410050372,"9th to 12th grade, no diploma",136.978781,People
+410050372,Associate's degree,163.63233200000002,People
+410050372,Bachelor's degree,166.363772,People
+410050372,Graduate or professional degree,26.132872,People
+410050372,High school graduate (includes equivalency),472.79240400000003,People
+410050372,Less than 9th grade,13.268527000000002,People
+410050372,"Some college, no degree",473.123777,People
+410050373,"9th to 12th grade, no diploma",101.753582,People
+410050373,Associate's degree,102.531302,People
+410050373,Bachelor's degree,164.718626,People
+410050373,Graduate or professional degree,108.890391,People
+410050373,High school graduate (includes equivalency),274.81005400000004,People
+410050373,Less than 9th grade,6.0714950000000005,People
+410050373,"Some college, no degree",360.328083,People
+410050400,"9th to 12th grade, no diploma",170.922323,People
+410050400,Associate's degree,486.337893,People
+410050400,Bachelor's degree,609.6913890000001,People
+410050400,Graduate or professional degree,417.225798,People
+410050400,High school graduate (includes equivalency),907.810603,People
+410050400,Less than 9th grade,36.076303,People
+410050400,"Some college, no degree",913.924479,People
+410050401,"9th to 12th grade, no diploma",50.60586,People
+410050401,Associate's degree,139.20160499999997,People
+410050401,Bachelor's degree,234.43147399999998,People
+410050401,Graduate or professional degree,88.61717699999998,People
+410050401,High school graduate (includes equivalency),477.377587,People
+410050401,Less than 9th grade,9.594973,People
+410050401,"Some college, no degree",372.084006,People
+410050402,"9th to 12th grade, no diploma",63.08043,People
+410050402,Associate's degree,337.858796,People
+410050402,Bachelor's degree,604.086308,People
+410050402,Graduate or professional degree,430.734103,People
+410050402,High school graduate (includes equivalency),961.759136,People
+410050402,Less than 9th grade,6.2275100000000005,People
+410050402,"Some college, no degree",1046.38565,People
+410050403,"9th to 12th grade, no diploma",63.923433,People
+410050403,Associate's degree,157.556529,People
+410050403,Bachelor's degree,297.893669,People
+410050403,Graduate or professional degree,114.64746500000001,People
+410050403,High school graduate (includes equivalency),418.99721900000003,People
+410050403,Less than 9th grade,0.066236,People
+410050403,"Some college, no degree",668.772642,People
+410050404,"9th to 12th grade, no diploma",88.25053799999999,People
+410050404,Associate's degree,140.809201,People
+410050404,Bachelor's degree,129.244042,People
+410050404,Graduate or professional degree,89.099333,People
+410050404,High school graduate (includes equivalency),394.13958299999996,People
+410050404,Less than 9th grade,17.703877,People
+410050404,"Some college, no degree",486.436202,People
+410050405,"9th to 12th grade, no diploma",108.419033,People
+410050405,Associate's degree,126.813204,People
+410050405,Bachelor's degree,102.279987,People
+410050405,Graduate or professional degree,69.878067,People
+410050405,High school graduate (includes equivalency),419.00847799999997,People
+410050405,Less than 9th grade,9.678765,People
+410050405,"Some college, no degree",396.383072,People
+410050406,"9th to 12th grade, no diploma",79.089899,People
+410050406,Associate's degree,94.437466,People
+410050406,Bachelor's degree,114.73176699999999,People
+410050406,Graduate or professional degree,57.78404999999999,People
+410050406,High school graduate (includes equivalency),478.54164699999995,People
+410050406,Less than 9th grade,19.679804999999998,People
+410050406,"Some college, no degree",365.207274,People
+410050410,"9th to 12th grade, no diploma",123.403308,People
+410050410,Associate's degree,372.668976,People
+410050410,Bachelor's degree,1244.047722,People
+410050410,Graduate or professional degree,720.74712,People
+410050410,High school graduate (includes equivalency),595.579531,People
+410050410,Less than 9th grade,230.61105,People
+410050410,"Some college, no degree",1146.491619,People
+410050411,"9th to 12th grade, no diploma",311.470727,People
+410050411,Associate's degree,649.197301,People
+410050411,Bachelor's degree,1858.47289,People
+410050411,Graduate or professional degree,1068.251826,People
+410050411,High school graduate (includes equivalency),1376.355912,People
+410050411,Less than 9th grade,124.5319,People
+410050411,"Some college, no degree",1896.883305,People
+410050412,"9th to 12th grade, no diploma",151.231267,People
+410050412,Associate's degree,383.967087,People
+410050412,Bachelor's degree,632.119284,People
+410050412,Graduate or professional degree,235.655576,People
+410050412,High school graduate (includes equivalency),964.797465,People
+410050412,Less than 9th grade,67.171764,People
+410050412,"Some college, no degree",859.620815,People
+410050413,"9th to 12th grade, no diploma",345.37302800000003,People
+410050413,Associate's degree,739.985672,People
+410050413,Bachelor's degree,1236.977193,People
+410050413,Graduate or professional degree,285.378851,People
+410050413,High school graduate (includes equivalency),2220.170213,People
+410050413,Less than 9th grade,83.013028,People
+410050413,"Some college, no degree",1842.4904800000002,People
+410050414,"9th to 12th grade, no diploma",469.301871,People
+410050414,Associate's degree,2011.2518010000001,People
+410050414,Bachelor's degree,4061.626383,People
+410050414,Graduate or professional degree,1921.473197,People
+410050414,High school graduate (includes equivalency),3826.407208,People
+410050414,Less than 9th grade,158.97423,People
+410050414,"Some college, no degree",4202.268176,People
+410050415,"9th to 12th grade, no diploma",1325.050128,People
+410050415,Associate's degree,3776.247496,People
+410050415,Bachelor's degree,10944.637928,People
+410050415,Graduate or professional degree,6585.84608,People
+410050415,High school graduate (includes equivalency),7194.273904,People
+410050415,Less than 9th grade,531.133232,People
+410050415,"Some college, no degree",8663.251792,People
+410050416,"9th to 12th grade, no diploma",296.222582,People
+410050416,Associate's degree,842.116754,People
+410050416,Bachelor's degree,2435.05397,People
+410050416,Graduate or professional degree,1551.2458060000001,People
+410050416,High school graduate (includes equivalency),1704.0832,People
+410050416,Less than 9th grade,241.726258,People
+410050416,"Some college, no degree",2229.603848,People
+410050417,"9th to 12th grade, no diploma",84.236232,People
+410050417,Associate's degree,85.138079,People
+410050417,Bachelor's degree,101.404026,People
+410050417,Graduate or professional degree,10.150186,People
+410050417,High school graduate (includes equivalency),332.965095,People
+410050417,Less than 9th grade,47.985004000000004,People
+410050417,"Some college, no degree",277.219002,People
+410050418,"9th to 12th grade, no diploma",396.52746,People
+410050418,Associate's degree,710.2456970000001,People
+410050418,Bachelor's degree,2239.817075,People
+410050418,Graduate or professional degree,1477.354509,People
+410050418,High school graduate (includes equivalency),1198.143719,People
+410050418,Less than 9th grade,88.162117,People
+410050418,"Some college, no degree",1691.390621,People
+410050419,"9th to 12th grade, no diploma",70.63315499999999,People
+410050419,Associate's degree,143.044497,People
+410050419,Bachelor's degree,485.688467,People
+410050419,Graduate or professional degree,269.483974,People
+410050419,High school graduate (includes equivalency),490.17099299999995,People
+410050419,Less than 9th grade,46.90398,People
+410050419,"Some college, no degree",541.3568919999999,People
+410050420,"9th to 12th grade, no diploma",1184.408675,People
+410050420,Associate's degree,5175.729457,People
+410050420,Bachelor's degree,9333.867967,People
+410050420,Graduate or professional degree,3897.059138,People
+410050420,High school graduate (includes equivalency),14468.776418,People
+410050420,Less than 9th grade,97.408381,People
+410050420,"Some college, no degree",13353.109856,People
+410050421,"9th to 12th grade, no diploma",93.680767,People
+410050421,Associate's degree,165.74795300000002,People
+410050421,Bachelor's degree,458.013809,People
+410050421,Graduate or professional degree,253.825768,People
+410050421,High school graduate (includes equivalency),482.515187,People
+410050421,Less than 9th grade,61.114617,People
+410050421,"Some college, no degree",648.094512,People
+410050422,"9th to 12th grade, no diploma",116.68306,People
+410050422,Associate's degree,124.418773,People
+410050422,Bachelor's degree,242.438815,People
+410050422,Graduate or professional degree,90.076351,People
+410050422,High school graduate (includes equivalency),471.518727,People
+410050422,Less than 9th grade,52.392926,People
+410050422,"Some college, no degree",380.04253800000004,People
+410050423,"9th to 12th grade, no diploma",0.287595,People
+410050423,Associate's degree,44.602579999999996,People
+410050423,Bachelor's degree,431.273635,People
+410050423,Graduate or professional degree,241.021647,People
+410050423,High school graduate (includes equivalency),173.13668499999997,People
+410050423,Less than 9th grade,0.057519,People
+410050423,"Some college, no degree",219.35306599999998,People
+410050500,"9th to 12th grade, no diploma",57.377776,People
+410050500,Associate's degree,194.922053,People
+410050500,Bachelor's degree,508.85272199999997,People
+410050500,Graduate or professional degree,166.033308,People
+410050500,High school graduate (includes equivalency),456.054527,People
+410050500,Less than 9th grade,38.375903,People
+410050500,"Some college, no degree",528.946034,People
+410050501,"9th to 12th grade, no diploma",58.993354,People
+410050501,Associate's degree,70.763958,People
+410050501,Bachelor's degree,196.244196,People
+410050501,Graduate or professional degree,140.577012,People
+410050501,High school graduate (includes equivalency),343.33677800000004,People
+410050501,Less than 9th grade,2.908279,People
+410050501,"Some college, no degree",340.374999,People
+410050502,"9th to 12th grade, no diploma",94.877868,People
+410050502,Associate's degree,192.982218,People
+410050502,Bachelor's degree,394.089903,People
+410050502,Graduate or professional degree,172.816005,People
+410050502,High school graduate (includes equivalency),499.411941,People
+410050502,Less than 9th grade,50.358872999999996,People
+410050502,"Some college, no degree",460.549099,People
+410050503,"9th to 12th grade, no diploma",44.920013,People
+410050503,Associate's degree,160.910781,People
+410050503,Bachelor's degree,472.53438700000004,People
+410050503,Graduate or professional degree,178.67327400000002,People
+410050503,High school graduate (includes equivalency),464.072515,People
+410050503,Less than 9th grade,16.661898,People
+410050503,"Some college, no degree",420.189224,People
+410050504,"9th to 12th grade, no diploma",146.017607,People
+410050504,Associate's degree,157.306534,People
+410050504,Bachelor's degree,242.68891000000002,People
+410050504,Graduate or professional degree,135.841058,People
+410050504,High school graduate (includes equivalency),480.74919,People
+410050504,Less than 9th grade,22.018530000000002,People
+410050504,"Some college, no degree",582.3723630000001,People
+410050505,"9th to 12th grade, no diploma",50.789155,People
+410050505,Associate's degree,158.334094,People
+410050505,Bachelor's degree,258.494937,People
+410050505,Graduate or professional degree,106.10892100000001,People
+410050505,High school graduate (includes equivalency),420.751975,People
+410050505,Less than 9th grade,59.723282,People
+410050505,"Some college, no degree",521.3570890000001,People
+410050506,"9th to 12th grade, no diploma",100.75480300000001,People
+410050506,Associate's degree,132.020617,People
+410050506,Bachelor's degree,186.489773,People
+410050506,Graduate or professional degree,81.767722,People
+410050506,High school graduate (includes equivalency),409.571478,People
+410050506,Less than 9th grade,25.824089999999998,People
+410050506,"Some college, no degree",345.20086100000003,People
+410050510,"9th to 12th grade, no diploma",406,People
+410050510,Associate's degree,1041,People
+410050510,Bachelor's degree,1628,People
+410050510,Graduate or professional degree,414,People
+410050510,High school graduate (includes equivalency),1752,People
+410050510,Less than 9th grade,95,People
+410050510,"Some college, no degree",2662,People
+410050511,"9th to 12th grade, no diploma",89.120416,People
+410050511,Associate's degree,193.62842,People
+410050511,Bachelor's degree,268.643194,People
+410050511,Graduate or professional degree,99.261258,People
+410050511,High school graduate (includes equivalency),451.90037499999994,People
+410050511,Less than 9th grade,8.773426,People
+410050511,"Some college, no degree",425.430142,People
+410050512,"9th to 12th grade, no diploma",87.276451,People
+410050512,Associate's degree,201.99458299999998,People
+410050512,Bachelor's degree,297.074689,People
+410050512,Graduate or professional degree,101.58006499999999,People
+410050512,High school graduate (includes equivalency),384.316401,People
+410050512,Less than 9th grade,55.982034,People
+410050512,"Some college, no degree",485.947066,People
+410050513,"9th to 12th grade, no diploma",44.195033,People
+410050513,Associate's degree,172.794503,People
+410050513,Bachelor's degree,354.77254,People
+410050513,Graduate or professional degree,130.918252,People
+410050513,High school graduate (includes equivalency),299.632272,People
+410050513,Less than 9th grade,15.227622,People
+410050513,"Some college, no degree",346.312571,People
+410050514,"9th to 12th grade, no diploma",27.82014,People
+410050514,Associate's degree,224.713246,People
+410050514,Bachelor's degree,329.186809,People
+410050514,Graduate or professional degree,179.244325,People
+410050514,High school graduate (includes equivalency),393.017563,People
+410050514,Less than 9th grade,9.533201,People
+410050514,"Some college, no degree",462.59567,People
+410050515,"9th to 12th grade, no diploma",28.415561,People
+410050515,Associate's degree,198.902551,People
+410050515,Bachelor's degree,364.37053299999997,People
+410050515,Graduate or professional degree,230.811722,People
+410050515,High school graduate (includes equivalency),293.541666,People
+410050515,Less than 9th grade,18.934409,People
+410050515,"Some college, no degree",418.647938,People
+410050516,"9th to 12th grade, no diploma",51.958766,People
+410050516,Associate's degree,87.676598,People
+410050516,Bachelor's degree,157.443025,People
+410050516,Graduate or professional degree,64.238723,People
+410050516,High school graduate (includes equivalency),235.61862,People
+410050516,Less than 9th grade,13.23962,People
+410050516,"Some college, no degree",303.970228,People
+410050517,"9th to 12th grade, no diploma",54.351849,People
+410050517,Associate's degree,123.044788,People
+410050517,Bachelor's degree,173.896963,People
+410050517,Graduate or professional degree,83.518148,People
+410050517,High school graduate (includes equivalency),252.568007,People
+410050517,Less than 9th grade,18.063127,People
+410050517,"Some college, no degree",322.29218,People
+410050518,"9th to 12th grade, no diploma",50.281886,People
+410050518,Associate's degree,140.41917999999998,People
+410050518,Bachelor's degree,295.945897,People
+410050518,Graduate or professional degree,122.39316600000001,People
+410050518,High school graduate (includes equivalency),279.582711,People
+410050518,Less than 9th grade,54.848673,People
+410050518,"Some college, no degree",369.16128199999997,People
+410050519,"9th to 12th grade, no diploma",44.803911,People
+410050519,Associate's degree,181.039598,People
+410050519,Bachelor's degree,552.769775,People
+410050519,Graduate or professional degree,109.59883400000001,People
+410050519,High school graduate (includes equivalency),414.959093,People
+410050519,Less than 9th grade,98.19574100000001,People
+410050519,"Some college, no degree",518.535958,People
+410050520,"9th to 12th grade, no diploma",76.84588500000001,People
+410050520,Associate's degree,159.30313900000002,People
+410050520,Bachelor's degree,219.77347200000003,People
+410050520,Graduate or professional degree,116.01633700000001,People
+410050520,High school graduate (includes equivalency),82.64731800000001,People
+410050520,Less than 9th grade,1.1830960000000001,People
+410050520,"Some college, no degree",263.880664,People
+410090001,"9th to 12th grade, no diploma",72.84132699999999,People
+410090001,Associate's degree,72.458827,People
+410090001,Bachelor's degree,78.127004,People
+410090001,Graduate or professional degree,62.745425,People
+410090001,High school graduate (includes equivalency),336.016062,People
+410090001,Less than 9th grade,7.194426,People
+410090001,"Some college, no degree",258.14500599999997,People
+410090004,"9th to 12th grade, no diploma",71.522184,People
+410090004,Associate's degree,116.79842599999999,People
+410090004,Bachelor's degree,61.1703,People
+410090004,Graduate or professional degree,70.62057,People
+410090004,High school graduate (includes equivalency),344.270755,People
+410090004,Less than 9th grade,11.778957,People
+410090004,"Some college, no degree",248.462056,People
+410090005,"9th to 12th grade, no diploma",64.419371,People
+410090005,Associate's degree,134.383071,People
+410090005,Bachelor's degree,140.36073199999998,People
+410090005,Graduate or professional degree,60.033975,People
+410090005,High school graduate (includes equivalency),572.3466000000001,People
+410090005,Less than 9th grade,37.20393,People
+410090005,"Some college, no degree",360.255002,People
+410090006,"9th to 12th grade, no diploma",48.987665,People
+410090006,Associate's degree,109.339257,People
+410090006,Bachelor's degree,70.694363,People
+410090006,Graduate or professional degree,60.138259999999995,People
+410090006,High school graduate (includes equivalency),498.84702,People
+410090006,Less than 9th grade,33.405882999999996,People
+410090006,"Some college, no degree",333.434322,People
+410090008,"9th to 12th grade, no diploma",89.496531,People
+410090008,Associate's degree,103.882716,People
+410090008,Bachelor's degree,74.551149,People
+410090008,Graduate or professional degree,46.563252,People
+410090008,High school graduate (includes equivalency),329.937558,People
+410090008,Less than 9th grade,27.878895,People
+410090008,"Some college, no degree",276.20297700000003,People
+410090010,"9th to 12th grade, no diploma",134.594613,People
+410090010,Associate's degree,205.270912,People
+410090010,Bachelor's degree,185.950339,People
+410090010,Graduate or professional degree,136.162338,People
+410090010,High school graduate (includes equivalency),834.968167,People
+410090010,Less than 9th grade,54.553864,People
+410090010,"Some college, no degree",682.977082,People
+410090012,"9th to 12th grade, no diploma",37.631994,People
+410090012,Associate's degree,79.094534,People
+410090012,Bachelor's degree,163.969289,People
+410090012,Graduate or professional degree,63.804657000000006,People
+410090012,High school graduate (includes equivalency),281.238475,People
+410090012,Less than 9th grade,18.512016,People
+410090012,"Some college, no degree",267.443524,People
+410090014,"9th to 12th grade, no diploma",89.13768599999999,People
+410090014,Associate's degree,155.555624,People
+410090014,Bachelor's degree,68.54864599999999,People
+410090014,Graduate or professional degree,100.351152,People
+410090014,High school graduate (includes equivalency),405.41712,People
+410090014,Less than 9th grade,25.902584,People
+410090014,"Some college, no degree",280.847374,People
+410090015,"9th to 12th grade, no diploma",60.032499,People
+410090015,Associate's degree,75.966347,People
+410090015,Bachelor's degree,82.020883,People
+410090015,Graduate or professional degree,25.619033,People
+410090015,High school graduate (includes equivalency),314.096863,People
+410090015,Less than 9th grade,25.227381,People
+410090015,"Some college, no degree",238.14231700000002,People
+410090017,"9th to 12th grade, no diploma",48.433612000000004,People
+410090017,Associate's degree,78.823435,People
+410090017,Bachelor's degree,111.19116600000001,People
+410090017,Graduate or professional degree,40.133928,People
+410090017,High school graduate (includes equivalency),283.773369,People
+410090017,Less than 9th grade,64.194528,People
+410090017,"Some college, no degree",244.18414700000002,People
+410090018,"9th to 12th grade, no diploma",61.054932,People
+410090018,Associate's degree,66.59550399999999,People
+410090018,Bachelor's degree,58.920426,People
+410090018,Graduate or professional degree,23.432351999999998,People
+410090018,High school graduate (includes equivalency),282.39446,People
+410090018,Less than 9th grade,2.706358,People
+410090018,"Some college, no degree",207.47782999999998,People
+410090019,"9th to 12th grade, no diploma",44.002776,People
+410090019,Associate's degree,105.69078199999998,People
+410090019,Bachelor's degree,216.08238799999998,People
+410090019,Graduate or professional degree,90.517946,People
+410090019,High school graduate (includes equivalency),405.84762,People
+410090019,Less than 9th grade,3.5791880000000003,People
+410090019,"Some college, no degree",481.582776,People
+410090020,"9th to 12th grade, no diploma",29.239530000000002,People
+410090020,Associate's degree,89.272528,People
+410090020,Bachelor's degree,204.75726699999998,People
+410090020,Graduate or professional degree,61.733983,People
+410090020,High school graduate (includes equivalency),421.574172,People
+410090020,Less than 9th grade,6.00793,People
+410090020,"Some college, no degree",422.593368,People
+410090021,"9th to 12th grade, no diploma",102.257695,People
+410090021,Associate's degree,102.786678,People
+410090021,Bachelor's degree,82.013659,People
+410090021,Graduate or professional degree,53.168664,People
+410090021,High school graduate (includes equivalency),359.57917699999996,People
+410090021,Less than 9th grade,14.531198999999999,People
+410090021,"Some college, no degree",318.288117,People
+410090024,"9th to 12th grade, no diploma",157.67175,People
+410090024,Associate's degree,130.331613,People
+410090024,Bachelor's degree,115.967901,People
+410090024,Graduate or professional degree,59.269548,People
+410090024,High school graduate (includes equivalency),528.385398,People
+410090024,Less than 9th grade,43.74626,People
+410090024,"Some college, no degree",457.18079,People
+410090026,"9th to 12th grade, no diploma",148.484447,People
+410090026,Associate's degree,226.227873,People
+410090026,Bachelor's degree,268.603643,People
+410090026,Graduate or professional degree,109.339346,People
+410090026,High school graduate (includes equivalency),673.138991,People
+410090026,Less than 9th grade,64.644187,People
+410090026,"Some college, no degree",595.415249,People
+410090031,"9th to 12th grade, no diploma",55.158186,People
+410090031,Associate's degree,114.914224,People
+410090031,Bachelor's degree,345.00945099999996,People
+410090031,Graduate or professional degree,81.085934,People
+410090031,High school graduate (includes equivalency),338.299779,People
+410090031,Less than 9th grade,3.3207489999999997,People
+410090031,"Some college, no degree",410.758339,People
+410090032,"9th to 12th grade, no diploma",67.438479,People
+410090032,Associate's degree,141.877583,People
+410090032,Bachelor's degree,181.54685,People
+410090032,Graduate or professional degree,105.99243,People
+410090032,High school graduate (includes equivalency),334.517498,People
+410090032,Less than 9th grade,26.787267999999997,People
+410090032,"Some college, no degree",395.562743,People
+410090034,"9th to 12th grade, no diploma",56.96986100000001,People
+410090034,Associate's degree,130.688014,People
+410090034,Bachelor's degree,239.053836,People
+410090034,Graduate or professional degree,72.212875,People
+410090034,High school graduate (includes equivalency),349.78357000000005,People
+410090034,Less than 9th grade,8.296671,People
+410090034,"Some college, no degree",361.717221,People
+410090035,"9th to 12th grade, no diploma",60.919033,People
+410090035,Associate's degree,131.983645,People
+410090035,Bachelor's degree,210.356782,People
+410090035,Graduate or professional degree,107.6323,People
+410090035,High school graduate (includes equivalency),261.137448,People
+410090035,Less than 9th grade,19.449635,People
+410090035,"Some college, no degree",345.42505,People
+410090036,"9th to 12th grade, no diploma",41.886448,People
+410090036,Associate's degree,178.55152600000002,People
+410090036,Bachelor's degree,312.99561800000004,People
+410090036,Graduate or professional degree,114.820076,People
+410090036,High school graduate (includes equivalency),192.81160200000002,People
+410090036,Less than 9th grade,8.472256,People
+410090036,"Some college, no degree",306.155498,People
+410090038,"9th to 12th grade, no diploma",48.221517,People
+410090038,Associate's degree,115.62536,People
+410090038,Bachelor's degree,332.048168,People
+410090038,Graduate or professional degree,87.167357,People
+410090038,High school graduate (includes equivalency),387.984741,People
+410090038,Less than 9th grade,1.2971929999999998,People
+410090038,"Some college, no degree",488.923398,People
+410090039,"9th to 12th grade, no diploma",63.718233000000005,People
+410090039,Associate's degree,72.944585,People
+410090039,Bachelor's degree,155.44559800000002,People
+410090039,Graduate or professional degree,100.536931,People
+410090039,High school graduate (includes equivalency),166.94036,People
+410090039,Less than 9th grade,12.024737,People
+410090039,"Some college, no degree",197.12853800000002,People
+410090040,"9th to 12th grade, no diploma",12.353178,People
+410090040,Associate's degree,94.087059,People
+410090040,Bachelor's degree,136.112386,People
+410090040,Graduate or professional degree,71.1912,People
+410090040,High school graduate (includes equivalency),483.197357,People
+410090040,Less than 9th grade,19.191145,People
+410090040,"Some college, no degree",242.154226,People
+410090041,"9th to 12th grade, no diploma",77.309715,People
+410090041,Associate's degree,82.25545,People
+410090041,Bachelor's degree,90.63606,People
+410090041,Graduate or professional degree,50.45551,People
+410090041,High school graduate (includes equivalency),305.30845999999997,People
+410090041,Less than 9th grade,11.142150000000001,People
+410090041,"Some college, no degree",241.56864,People
+410090044,"9th to 12th grade, no diploma",66.656805,People
+410090044,Associate's degree,76.474908,People
+410090044,Bachelor's degree,101.303806,People
+410090044,Graduate or professional degree,39.947622,People
+410090044,High school graduate (includes equivalency),306.65202600000003,People
+410090044,Less than 9th grade,13.042515000000002,People
+410090044,"Some college, no degree",238.786998,People
+410090046,"9th to 12th grade, no diploma",58.341986,People
+410090046,Associate's degree,122.345585,People
+410090046,Bachelor's degree,106.941004,People
+410090046,Graduate or professional degree,61.677731,People
+410090046,High school graduate (includes equivalency),450.72038100000003,People
+410090046,Less than 9th grade,28.314650000000004,People
+410090046,"Some college, no degree",306.13643,People
+410090047,"9th to 12th grade, no diploma",25.901242999999997,People
+410090047,Associate's degree,61.210439,People
+410090047,Bachelor's degree,102.658572,People
+410090047,Graduate or professional degree,31.930003,People
+410090047,High school graduate (includes equivalency),295.932119,People
+410090047,Less than 9th grade,3.691331,People
+410090047,"Some college, no degree",233.149349,People
+410090048,"9th to 12th grade, no diploma",23.050914,People
+410090048,Associate's degree,127.45171299999998,People
+410090048,Bachelor's degree,152.777542,People
+410090048,Graduate or professional degree,104.674723,People
+410090048,High school graduate (includes equivalency),492.35147399999994,People
+410090048,Less than 9th grade,22.490201,People
+410090048,"Some college, no degree",323.390836,People
+410090049,"9th to 12th grade, no diploma",105.795608,People
+410090049,Associate's degree,68.352486,People
+410090049,Bachelor's degree,129.695564,People
+410090049,Graduate or professional degree,46.583318,People
+410090049,High school graduate (includes equivalency),339.62954199999996,People
+410090049,Less than 9th grade,40.557404,People
+410090049,"Some college, no degree",312.738154,People
+410090050,"9th to 12th grade, no diploma",58,People
+410090050,Associate's degree,96,People
+410090050,Bachelor's degree,69,People
+410090050,Graduate or professional degree,8,People
+410090050,High school graduate (includes equivalency),410,People
+410090050,Less than 9th grade,7,People
+410090050,"Some college, no degree",275,People
+410090051,"9th to 12th grade, no diploma",97.10186999999999,People
+410090051,Associate's degree,115.164603,People
+410090051,Bachelor's degree,67.762293,People
+410090051,Graduate or professional degree,79.06112999999999,People
+410090051,High school graduate (includes equivalency),326.675559,People
+410090051,Less than 9th grade,7.98268,People
+410090051,"Some college, no degree",275.02541099999996,People
+410090053,"9th to 12th grade, no diploma",153.46665000000002,People
+410090053,Associate's degree,210.15609600000002,People
+410090053,Bachelor's degree,140.256279,People
+410090053,Graduate or professional degree,151.266679,People
+410090053,High school graduate (includes equivalency),943.207639,People
+410090053,Less than 9th grade,52.596576000000006,People
+410090053,"Some college, no degree",779.163502,People
+410512701,"9th to 12th grade, no diploma",23.371886,People
+410512701,Associate's degree,31.402159,People
+410512701,Bachelor's degree,402.463058,People
+410512701,Graduate or professional degree,397.883254,People
+410512701,High school graduate (includes equivalency),83.38187500000001,People
+410512701,Less than 9th grade,4.223524,People
+410512701,"Some college, no degree",166.094991,People
+410512702,"9th to 12th grade, no diploma",20.135281,People
+410512702,Associate's degree,29.331167,People
+410512702,Bachelor's degree,394.685622,People
+410512702,Graduate or professional degree,388.355856,People
+410512702,High school graduate (includes equivalency),76.57390099999999,People
+410512702,Less than 9th grade,3.218912,People
+410512702,"Some college, no degree",159.769158,People
+410513101,"9th to 12th grade, no diploma",11.603769999999999,People
+410513101,Associate's degree,49.199116,People
+410513101,Bachelor's degree,271.070006,People
+410513101,Graduate or professional degree,268.539121,People
+410513101,High school graduate (includes equivalency),126.000519,People
+410513101,Less than 9th grade,6.357856,People
+410513101,"Some college, no degree",157.29833399999998,People
+410513102,"9th to 12th grade, no diploma",47.340868,People
+410513102,Associate's degree,121.773802,People
+410513102,Bachelor's degree,426.32049800000004,People
+410513102,Graduate or professional degree,218.77836299999998,People
+410513102,High school graduate (includes equivalency),261.10821100000004,People
+410513102,Less than 9th grade,0.07596,People
+410513102,"Some college, no degree",378.995898,People
+410513103,"9th to 12th grade, no diploma",8.410290999999999,People
+410513103,Associate's degree,11.949088,People
+410513103,Bachelor's degree,197.334148,People
+410513103,Graduate or professional degree,73.39448900000001,People
+410513103,High school graduate (includes equivalency),75.46573000000001,People
+410513103,Less than 9th grade,0.23218899999999998,People
+410513103,"Some college, no degree",187.296557,People
+410513301,"9th to 12th grade, no diploma",35.477904,People
+410513301,Associate's degree,103.88165,People
+410513301,Bachelor's degree,1066.190063,People
+410513301,Graduate or professional degree,725.246276,People
+410513301,High school graduate (includes equivalency),161.592396,People
+410513301,Less than 9th grade,3.56096,People
+410513301,"Some college, no degree",345.786159,People
+410513303,"9th to 12th grade, no diploma",14.54274,People
+410513303,Associate's degree,61.010968,People
+410513303,Bachelor's degree,420.900722,People
+410513303,Graduate or professional degree,485.772273,People
+410513303,High school graduate (includes equivalency),130.350471,People
+410513303,Less than 9th grade,3.4453080000000003,People
+410513303,"Some college, no degree",200.049298,People
+410513304,"9th to 12th grade, no diploma",12.010307,People
+410513304,Associate's degree,28.134544000000002,People
+410513304,Bachelor's degree,347.37038900000005,People
+410513304,Graduate or professional degree,546.5252740000001,People
+410513304,High school graduate (includes equivalency),54.631585,People
+410513304,Less than 9th grade,0,People
+410513304,"Some college, no degree",126.77802,People
+410513501,"9th to 12th grade, no diploma",23.800634,People
+410513501,Associate's degree,81.88129500000001,People
+410513501,Bachelor's degree,540.933341,People
+410513501,Graduate or professional degree,310.09076799999997,People
+410513501,High school graduate (includes equivalency),179.42798900000003,People
+410513501,Less than 9th grade,7.309395,People
+410513501,"Some college, no degree",369.184496,People
+410513502,"9th to 12th grade, no diploma",36.033722999999995,People
+410513502,Associate's degree,55.11781,People
+410513502,Bachelor's degree,548.796027,People
+410513502,Graduate or professional degree,459.77031999999997,People
+410513502,High school graduate (includes equivalency),170.25391,People
+410513502,Less than 9th grade,6.095548,People
+410513502,"Some college, no degree",297.916689,People
+410513602,"9th to 12th grade, no diploma",28.337568,People
+410513602,Associate's degree,40.594644,People
+410513602,Bachelor's degree,588.373263,People
+410513602,Graduate or professional degree,518.567592,People
+410513602,High school graduate (includes equivalency),78.098611,People
+410513602,Less than 9th grade,15.95463,People
+410513602,"Some college, no degree",160.31855199999998,People
+410513603,"9th to 12th grade, no diploma",33.0142,People
+410513603,Associate's degree,34.034396,People
+410513603,Bachelor's degree,330.70125,People
+410513603,Graduate or professional degree,392.55078499999996,People
+410513603,High school graduate (includes equivalency),129.218247,People
+410513603,Less than 9th grade,10.139338,People
+410513603,"Some college, no degree",221.234389,People
+410513604,"9th to 12th grade, no diploma",0,People
+410513604,Associate's degree,28,People
+410513604,Bachelor's degree,423,People
+410513604,Graduate or professional degree,382,People
+410513604,High school graduate (includes equivalency),93,People
+410513604,Less than 9th grade,0,People
+410513604,"Some college, no degree",204,People
+410513605,"9th to 12th grade, no diploma",13.937026,People
+410513605,Associate's degree,22.999624,People
+410513605,Bachelor's degree,326.673658,People
+410513605,Graduate or professional degree,331.094371,People
+410513605,High school graduate (includes equivalency),39.959361,People
+410513605,Less than 9th grade,3.62872,People
+410513605,"Some college, no degree",116.508984,People
+410513606,"9th to 12th grade, no diploma",3.869498,People
+410513606,Associate's degree,23.180495,People
+410513606,Bachelor's degree,672.994625,People
+410513606,Graduate or professional degree,322.914827,People
+410513606,High school graduate (includes equivalency),107.332716,People
+410513606,Less than 9th grade,4.9467490000000005,People
+410513606,"Some college, no degree",345.292221,People
+410513607,"9th to 12th grade, no diploma",6.676889,People
+410513607,Associate's degree,30.268801,People
+410513607,Bachelor's degree,327.705829,People
+410513607,Graduate or professional degree,324.329549,People
+410513607,High school graduate (includes equivalency),56.762022,People
+410513607,Less than 9th grade,2.42557,People
+410513607,"Some college, no degree",102.41028299999999,People
+410513608,"9th to 12th grade, no diploma",36.398459,People
+410513608,Associate's degree,165.82720899999998,People
+410513608,Bachelor's degree,1204.152011,People
+410513608,Graduate or professional degree,1004.052556,People
+410513608,High school graduate (includes equivalency),153.317049,People
+410513608,Less than 9th grade,12.683786999999999,People
+410513608,"Some college, no degree",385.783498,People
+410513609,"9th to 12th grade, no diploma",67.376799,People
+410513609,Associate's degree,66.51477700000001,People
+410513609,Bachelor's degree,556.635703,People
+410513609,Graduate or professional degree,559.712677,People
+410513609,High school graduate (includes equivalency),213.02651899999998,People
+410513609,Less than 9th grade,19.774874,People
+410513609,"Some college, no degree",304.84063,People
+410513610,"9th to 12th grade, no diploma",29.044191,People
+410513610,Associate's degree,59.774803,People
+410513610,Bachelor's degree,366.725796,People
+410513610,Graduate or professional degree,510.80728999999997,People
+410513610,High school graduate (includes equivalency),74.577265,People
+410513610,Less than 9th grade,9.600035,People
+410513610,"Some college, no degree",201.693365,People
+410513611,"9th to 12th grade, no diploma",13.718762,People
+410513611,Associate's degree,61.883953999999996,People
+410513611,Bachelor's degree,468.550439,People
+410513611,Graduate or professional degree,301.457791,People
+410513611,High school graduate (includes equivalency),130.911998,People
+410513611,Less than 9th grade,4.3672640000000005,People
+410513611,"Some college, no degree",218.135271,People
+410513612,"9th to 12th grade, no diploma",22.85572,People
+410513612,Associate's degree,87.800563,People
+410513612,Bachelor's degree,283.133096,People
+410513612,Graduate or professional degree,264.687985,People
+410513612,High school graduate (includes equivalency),90.42689899999999,People
+410513612,Less than 9th grade,32.751893,People
+410513612,"Some college, no degree",447.266314,People
+410513801,"9th to 12th grade, no diploma",48.341452000000004,People
+410513801,Associate's degree,70.960088,People
+410513801,Bachelor's degree,769.144092,People
+410513801,Graduate or professional degree,673.4833440000001,People
+410513801,High school graduate (includes equivalency),150.243872,People
+410513801,Less than 9th grade,0,People
+410513801,"Some college, no degree",182.957888,People
+410513802,"9th to 12th grade, no diploma",26.281763,People
+410513802,Associate's degree,66.631283,People
+410513802,Bachelor's degree,581.90862,People
+410513802,Graduate or professional degree,511.146603,People
+410513802,High school graduate (includes equivalency),130.40382400000001,People
+410513802,Less than 9th grade,13.835729,People
+410513802,"Some college, no degree",298.338325,People
+410513803,"9th to 12th grade, no diploma",67.91082899999999,People
+410513803,Associate's degree,74.541421,People
+410513803,Bachelor's degree,615.622947,People
+410513803,Graduate or professional degree,491.27102399999995,People
+410513803,High school graduate (includes equivalency),179.42407699999998,People
+410513803,Less than 9th grade,12.260021,People
+410513803,"Some college, no degree",326.20202199999994,People
+410513804,"9th to 12th grade, no diploma",28.946932999999998,People
+410513804,Associate's degree,89.438718,People
+410513804,Bachelor's degree,801.665584,People
+410513804,Graduate or professional degree,668.329713,People
+410513804,High school graduate (includes equivalency),117.489017,People
+410513804,Less than 9th grade,6.664914,People
+410513804,"Some college, no degree",403.239939,People
+410513805,"9th to 12th grade, no diploma",10.220041,People
+410513805,Associate's degree,93.12141,People
+410513805,Bachelor's degree,354.341137,People
+410513805,Graduate or professional degree,213.294591,People
+410513805,High school graduate (includes equivalency),97.220383,People
+410513805,Less than 9th grade,13.424831000000001,People
+410513805,"Some college, no degree",183.523397,People
+410513806,"9th to 12th grade, no diploma",24.088763,People
+410513806,Associate's degree,82.971608,People
+410513806,Bachelor's degree,613.665643,People
+410513806,Graduate or professional degree,503.18424100000004,People
+410513806,High school graduate (includes equivalency),136.33256,People
+410513806,Less than 9th grade,9.315317,People
+410513806,"Some college, no degree",257.795069,People
+410513807,"9th to 12th grade, no diploma",19.267281,People
+410513807,Associate's degree,59.800019999999996,People
+410513807,Bachelor's degree,323.45389100000006,People
+410513807,Graduate or professional degree,436.03738,People
+410513807,High school graduate (includes equivalency),79.41141400000001,People
+410513807,Less than 9th grade,3.585273,People
+410513807,"Some college, no degree",598.5749940000001,People
+410513808,"9th to 12th grade, no diploma",27.471262999999997,People
+410513808,Associate's degree,55.296431,People
+410513808,Bachelor's degree,365.413971,People
+410513808,Graduate or professional degree,451.302046,People
+410513808,High school graduate (includes equivalency),112.68458,People
+410513808,Less than 9th grade,3.2888409999999997,People
+410513808,"Some college, no degree",685.533861,People
+410514101,"9th to 12th grade, no diploma",7.8581259999999995,People
+410514101,Associate's degree,48.063098,People
+410514101,Bachelor's degree,312.13378700000004,People
+410514101,Graduate or professional degree,250.82876000000002,People
+410514101,High school graduate (includes equivalency),86.633326,People
+410514101,Less than 9th grade,5.600434999999999,People
+410514101,"Some college, no degree",150.516712,People
+410514102,"9th to 12th grade, no diploma",62.034123,People
+410514102,Associate's degree,61.639306000000005,People
+410514102,Bachelor's degree,331.066973,People
+410514102,Graduate or professional degree,210.14948700000002,People
+410514102,High school graduate (includes equivalency),204.562906,People
+410514102,Less than 9th grade,18.334244,People
+410514102,"Some college, no degree",221.476897,People
+410514103,"9th to 12th grade, no diploma",14.46359,People
+410514103,Associate's degree,38.478372,People
+410514103,Bachelor's degree,299.595172,People
+410514103,Graduate or professional degree,315.262747,People
+410514103,High school graduate (includes equivalency),79.112167,People
+410514103,Less than 9th grade,6.10797,People
+410514103,"Some college, no degree",336.079706,People
+410514203,"9th to 12th grade, no diploma",29.51018,People
+410514203,Associate's degree,60.668098,People
+410514203,Bachelor's degree,494.221007,People
+410514203,Graduate or professional degree,188.93710099999998,People
+410514203,High school graduate (includes equivalency),134.259834,People
+410514203,Less than 9th grade,8.537059,People
+410514203,"Some college, no degree",265.476337,People
+410514204,"9th to 12th grade, no diploma",13.76534,People
+410514204,Associate's degree,44.863743,People
+410514204,Bachelor's degree,437.11967500000003,People
+410514204,Graduate or professional degree,277.674145,People
+410514204,High school graduate (includes equivalency),89.172644,People
+410514204,Less than 9th grade,6.643414,People
+410514204,"Some college, no degree",246.131525,People
+410514205,"9th to 12th grade, no diploma",33.354666,People
+410514205,Associate's degree,56.978407000000004,People
+410514205,Bachelor's degree,384.918696,People
+410514205,Graduate or professional degree,309.366399,People
+410514205,High school graduate (includes equivalency),79.975001,People
+410514205,Less than 9th grade,12.209856,People
+410514205,"Some college, no degree",137.504862,People
+410514207,"9th to 12th grade, no diploma",18.635165,People
+410514207,Associate's degree,49.190277,People
+410514207,Bachelor's degree,393.342301,People
+410514207,Graduate or professional degree,227.023938,People
+410514207,High school graduate (includes equivalency),72.836786,People
+410514207,Less than 9th grade,19.292973,People
+410514207,"Some college, no degree",213.976463,People
+410514208,"9th to 12th grade, no diploma",34.149656,People
+410514208,Associate's degree,48.932668,People
+410514208,Bachelor's degree,352.254246,People
+410514208,Graduate or professional degree,238.746121,People
+410514208,High school graduate (includes equivalency),55.977661,People
+410514208,Less than 9th grade,7.666767,People
+410514208,"Some college, no degree",216.798086,People
+410514209,"9th to 12th grade, no diploma",44.890201,People
+410514209,Associate's degree,68.712331,People
+410514209,Bachelor's degree,340.542948,People
+410514209,Graduate or professional degree,234.691846,People
+410514209,High school graduate (includes equivalency),158.658996,People
+410514209,Less than 9th grade,14.232656,People
+410514209,"Some college, no degree",314.203349,People
+410514210,"9th to 12th grade, no diploma",29.963878,People
+410514210,Associate's degree,66.286345,People
+410514210,Bachelor's degree,314.219815,People
+410514210,Graduate or professional degree,185.779096,People
+410514210,High school graduate (includes equivalency),134.075755,People
+410514210,Less than 9th grade,14.769842,People
+410514210,"Some college, no degree",232.949929,People
+410514301,"9th to 12th grade, no diploma",28.780491,People
+410514301,Associate's degree,49.589292,People
+410514301,Bachelor's degree,318.24528,People
+410514301,Graduate or professional degree,196.994543,People
+410514301,High school graduate (includes equivalency),111.372392,People
+410514301,Less than 9th grade,16.187367,People
+410514301,"Some college, no degree",199.351736,People
+410514302,"9th to 12th grade, no diploma",23.636455,People
+410514302,Associate's degree,53.50275,People
+410514302,Bachelor's degree,298.266056,People
+410514302,Graduate or professional degree,175.462088,People
+410514302,High school graduate (includes equivalency),108.728666,People
+410514302,Less than 9th grade,7.088521,People
+410514302,"Some college, no degree",153.827628,People
+410514304,"9th to 12th grade, no diploma",16.331057,People
+410514304,Associate's degree,75.708153,People
+410514304,Bachelor's degree,367.20896799999997,People
+410514304,Graduate or professional degree,261.021601,People
+410514304,High school graduate (includes equivalency),115.24230099999998,People
+410514304,Less than 9th grade,16.289098,People
+410514304,"Some college, no degree",224.421493,People
+410514305,"9th to 12th grade, no diploma",28.914913,People
+410514305,Associate's degree,99.135221,People
+410514305,Bachelor's degree,401.905546,People
+410514305,Graduate or professional degree,199.304435,People
+410514305,High school graduate (includes equivalency),204.896638,People
+410514305,Less than 9th grade,19.861423000000002,People
+410514305,"Some college, no degree",289.713248,People
+410514306,"9th to 12th grade, no diploma",21.640486,People
+410514306,Associate's degree,52.046033,People
+410514306,Bachelor's degree,429.38187999999997,People
+410514306,Graduate or professional degree,288.45791099999997,People
+410514306,High school graduate (includes equivalency),78.588076,People
+410514306,Less than 9th grade,1.8713699999999998,People
+410514306,"Some college, no degree",104.69269,People
+410514310,"9th to 12th grade, no diploma",37.457582,People
+410514310,Associate's degree,52.801773000000004,People
+410514310,Bachelor's degree,363.88976,People
+410514310,Graduate or professional degree,277.90986000000004,People
+410514310,High school graduate (includes equivalency),102.183577,People
+410514310,Less than 9th grade,7.054652,People
+410514310,"Some college, no degree",194.373499,People
+410514401,"9th to 12th grade, no diploma",148.251141,People
+410514401,Associate's degree,178.202747,People
+410514401,Bachelor's degree,470.669811,People
+410514401,Graduate or professional degree,179.27368099999998,People
+410514401,High school graduate (includes equivalency),396.807659,People
+410514401,Less than 9th grade,30.009058999999997,People
+410514401,"Some college, no degree",474.98339999999996,People
+410514402,"9th to 12th grade, no diploma",158.58594100000002,People
+410514402,Associate's degree,170.92566100000002,People
+410514402,Bachelor's degree,443.55565400000006,People
+410514402,Graduate or professional degree,188.425061,People
+410514402,High school graduate (includes equivalency),382.788946,People
+410514402,Less than 9th grade,38.897453000000006,People
+410514402,"Some college, no degree",492.91032100000007,People
+410514403,"9th to 12th grade, no diploma",9.165253,People
+410514403,Associate's degree,23.714043,People
+410514403,Bachelor's degree,157.158054,People
+410514403,Graduate or professional degree,72.748863,People
+410514403,High school graduate (includes equivalency),55.824022,People
+410514403,Less than 9th grade,5.325029000000001,People
+410514403,"Some college, no degree",128.028792,People
+410514404,"9th to 12th grade, no diploma",51.826742,People
+410514404,Associate's degree,90.918074,People
+410514404,Bachelor's degree,318.496389,People
+410514404,Graduate or professional degree,162.679229,People
+410514404,High school graduate (includes equivalency),214.12334,People
+410514404,Less than 9th grade,24.527314,People
+410514404,"Some college, no degree",529.694774,People
+410514409,"9th to 12th grade, no diploma",173.193032,People
+410514409,Associate's degree,14.308236,People
+410514409,Bachelor's degree,51.236674,People
+410514409,Graduate or professional degree,22.409542,People
+410514409,High school graduate (includes equivalency),338.296939,People
+410514409,Less than 9th grade,92.760776,People
+410514409,"Some college, no degree",377.259723,People
+410514501,"9th to 12th grade, no diploma",11.205186,People
+410514501,Associate's degree,37.540419,People
+410514501,Bachelor's degree,290.518839,People
+410514501,Graduate or professional degree,271.411603,People
+410514501,High school graduate (includes equivalency),77.508275,People
+410514501,Less than 9th grade,6.699092,People
+410514501,"Some college, no degree",139.33574,People
+410514502,"9th to 12th grade, no diploma",42.20168,People
+410514502,Associate's degree,92.136309,People
+410514502,Bachelor's degree,271.176802,People
+410514502,Graduate or professional degree,204.76307400000002,People
+410514502,High school graduate (includes equivalency),175.644423,People
+410514502,Less than 9th grade,14.820407,People
+410514502,"Some college, no degree",236.454022,People
+410514503,"9th to 12th grade, no diploma",25.229392,People
+410514503,Associate's degree,56.902221,People
+410514503,Bachelor's degree,394.429089,People
+410514503,Graduate or professional degree,208.36994099999998,People
+410514503,High school graduate (includes equivalency),93.814873,People
+410514503,Less than 9th grade,7.10982,People
+410514503,"Some college, no degree",135.462381,People
+410514505,"9th to 12th grade, no diploma",31.027982,People
+410514505,Associate's degree,65.660278,People
+410514505,Bachelor's degree,335.474408,People
+410514505,Graduate or professional degree,194.285572,People
+410514505,High school graduate (includes equivalency),129.69301000000002,People
+410514505,Less than 9th grade,16.511577,People
+410514505,"Some college, no degree",236.95143900000002,People
+410514506,"9th to 12th grade, no diploma",45.928086,People
+410514506,Associate's degree,98.108408,People
+410514506,Bachelor's degree,271.047706,People
+410514506,Graduate or professional degree,97.981292,People
+410514506,High school graduate (includes equivalency),326.913806,People
+410514506,Less than 9th grade,29.637717000000002,People
+410514506,"Some college, no degree",320.684241,People
+410514508,"9th to 12th grade, no diploma",22.521812999999998,People
+410514508,Associate's degree,76.05402099999999,People
+410514508,Bachelor's degree,266.824862,People
+410514508,Graduate or professional degree,140.695937,People
+410514508,High school graduate (includes equivalency),206.15884499999999,People
+410514508,Less than 9th grade,36.123728,People
+410514508,"Some college, no degree",369.889757,People
+410514509,"9th to 12th grade, no diploma",100.165087,People
+410514509,Associate's degree,121.417917,People
+410514509,Bachelor's degree,232.702326,People
+410514509,Graduate or professional degree,101.440172,People
+410514509,High school graduate (includes equivalency),279.588976,People
+410514509,Less than 9th grade,53.963459,People
+410514509,"Some college, no degree",359.776653,People
+410514510,"9th to 12th grade, no diploma",37.014685,People
+410514510,Associate's degree,81.738823,People
+410514510,Bachelor's degree,246.824367,People
+410514510,Graduate or professional degree,116.11806399999999,People
+410514510,High school graduate (includes equivalency),258.902405,People
+410514510,Less than 9th grade,12.920630999999998,People
+410514510,"Some college, no degree",257.255163,People
+410514511,"9th to 12th grade, no diploma",116.41477599999999,People
+410514511,Associate's degree,115.384979,People
+410514511,Bachelor's degree,353.71426199999996,People
+410514511,Graduate or professional degree,117.08343599999999,People
+410514511,High school graduate (includes equivalency),376.489473,People
+410514511,Less than 9th grade,85.359732,People
+410514511,"Some college, no degree",480.737191,People
+410514512,"9th to 12th grade, no diploma",43.847626999999996,People
+410514512,Associate's degree,80.30585400000001,People
+410514512,Bachelor's degree,253.556084,People
+410514512,Graduate or professional degree,155.840954,People
+410514512,High school graduate (includes equivalency),158.177539,People
+410514512,Less than 9th grade,31.309703,People
+410514512,"Some college, no degree",188.87333,People
+410514601,"9th to 12th grade, no diploma",51.731507,People
+410514601,Associate's degree,72.404617,People
+410514601,Bachelor's degree,390.717308,People
+410514601,Graduate or professional degree,231.716361,People
+410514601,High school graduate (includes equivalency),155.174685,People
+410514601,Less than 9th grade,19.03512,People
+410514601,"Some college, no degree",281.32773000000003,People
+410514602,"9th to 12th grade, no diploma",14.202898000000001,People
+410514602,Associate's degree,34.404757000000004,People
+410514602,Bachelor's degree,376.01808100000005,People
+410514602,Graduate or professional degree,306.76521,People
+410514602,High school graduate (includes equivalency),93.304978,People
+410514602,Less than 9th grade,1.7932000000000003,People
+410514602,"Some college, no degree",121.815441,People
+410514604,"9th to 12th grade, no diploma",93.612086,People
+410514604,Associate's degree,121.55416600000001,People
+410514604,Bachelor's degree,239.766361,People
+410514604,Graduate or professional degree,78.0396,People
+410514604,High school graduate (includes equivalency),299.904859,People
+410514604,Less than 9th grade,84.104759,People
+410514604,"Some college, no degree",319.04082,People
+410514605,"9th to 12th grade, no diploma",31.822356,People
+410514605,Associate's degree,44.528711,People
+410514605,Bachelor's degree,274.526634,People
+410514605,Graduate or professional degree,139.614014,People
+410514605,High school graduate (includes equivalency),122.00917199999999,People
+410514605,Less than 9th grade,16.341533000000002,People
+410514605,"Some college, no degree",246.43302599999998,People
+410514606,"9th to 12th grade, no diploma",38.230092,People
+410514606,Associate's degree,71.959755,People
+410514606,Bachelor's degree,253.916625,People
+410514606,Graduate or professional degree,134.337678,People
+410514606,High school graduate (includes equivalency),148.539001,People
+410514606,Less than 9th grade,30.122526,People
+410514606,"Some college, no degree",222.923711,People
+410514607,"9th to 12th grade, no diploma",72.826059,People
+410514607,Associate's degree,103.896119,People
+410514607,Bachelor's degree,210.93656099999998,People
+410514607,Graduate or professional degree,96.351907,People
+410514607,High school graduate (includes equivalency),288.993359,People
+410514607,Less than 9th grade,49.701763,People
+410514607,"Some college, no degree",289.790664,People
+410514608,"9th to 12th grade, no diploma",66.372298,People
+410514608,Associate's degree,70.904802,People
+410514608,Bachelor's degree,204.444096,People
+410514608,Graduate or professional degree,69.55976,People
+410514608,High school graduate (includes equivalency),252.98605999999998,People
+410514608,Less than 9th grade,75.29794799999999,People
+410514608,"Some college, no degree",262.87228799999997,People
+410514701,"9th to 12th grade, no diploma",102.59954,People
+410514701,Associate's degree,115.129361,People
+410514701,Bachelor's degree,292.015573,People
+410514701,Graduate or professional degree,118.726062,People
+410514701,High school graduate (includes equivalency),478.263595,People
+410514701,Less than 9th grade,56.701539000000004,People
+410514701,"Some college, no degree",504.328443,People
+410514702,"9th to 12th grade, no diploma",46.95233,People
+410514702,Associate's degree,60.104784,People
+410514702,Bachelor's degree,173.858572,People
+410514702,Graduate or professional degree,95.055215,People
+410514702,High school graduate (includes equivalency),225.804427,People
+410514702,Less than 9th grade,32.723109,People
+410514702,"Some college, no degree",268.1161,People
+410514703,"9th to 12th grade, no diploma",108.798317,People
+410514703,Associate's degree,120.971757,People
+410514703,Bachelor's degree,275.509405,People
+410514703,Graduate or professional degree,110.540732,People
+410514703,High school graduate (includes equivalency),328.37042399999996,People
+410514703,Less than 9th grade,29.654376,People
+410514703,"Some college, no degree",357.000968,People
+410514704,"9th to 12th grade, no diploma",101.758999,People
+410514704,Associate's degree,108.036562,People
+410514704,Bachelor's degree,215.824901,People
+410514704,Graduate or professional degree,124.092258,People
+410514704,High school graduate (includes equivalency),311.16691,People
+410514704,Less than 9th grade,43.123215,People
+410514704,"Some college, no degree",427.811037,People
+410514705,"9th to 12th grade, no diploma",142.698713,People
+410514705,Associate's degree,179.109719,People
+410514705,Bachelor's degree,266.963591,People
+410514705,Graduate or professional degree,141.858242,People
+410514705,High school graduate (includes equivalency),463.208221,People
+410514705,Less than 9th grade,76.537378,People
+410514705,"Some college, no degree",434.22099000000003,People
+410514706,"9th to 12th grade, no diploma",123.80641899999999,People
+410514706,Associate's degree,161.12827399999998,People
+410514706,Bachelor's degree,100.92569999999999,People
+410514706,Graduate or professional degree,47.668530999999994,People
+410514706,High school graduate (includes equivalency),467.284095,People
+410514706,Less than 9th grade,26.058972,People
+410514706,"Some college, no degree",380.868478,People
+410514707,"9th to 12th grade, no diploma",111.267557,People
+410514707,Associate's degree,196.096475,People
+410514707,Bachelor's degree,275.155205,People
+410514707,Graduate or professional degree,194.063886,People
+410514707,High school graduate (includes equivalency),533.4110019999999,People
+410514707,Less than 9th grade,62.73188,People
+410514707,"Some college, no degree",380.395296,People
+410514708,"9th to 12th grade, no diploma",136.484407,People
+410514708,Associate's degree,148.490017,People
+410514708,Bachelor's degree,281.681701,People
+410514708,Graduate or professional degree,134.472844,People
+410514708,High school graduate (includes equivalency),444.057132,People
+410514708,Less than 9th grade,58.045716000000006,People
+410514708,"Some college, no degree",470.7574,People
+410514709,"9th to 12th grade, no diploma",132.341673,People
+410514709,Associate's degree,124.40960199999999,People
+410514709,Bachelor's degree,158.723348,People
+410514709,Graduate or professional degree,58.333688,People
+410514709,High school graduate (includes equivalency),323.51761600000003,People
+410514709,Less than 9th grade,96.485064,People
+410514709,"Some college, no degree",296.79902300000003,People
+410514710,"9th to 12th grade, no diploma",214.86496499999998,People
+410514710,Associate's degree,262.156255,People
+410514710,Bachelor's degree,178.885876,People
+410514710,Graduate or professional degree,83.434706,People
+410514710,High school graduate (includes equivalency),609.813693,People
+410514710,Less than 9th grade,119.88937800000001,People
+410514710,"Some college, no degree",521.258335,People
+410514801,"9th to 12th grade, no diploma",133.97905699999998,People
+410514801,Associate's degree,177.04299699999999,People
+410514801,Bachelor's degree,438.226142,People
+410514801,Graduate or professional degree,203.215539,People
+410514801,High school graduate (includes equivalency),487.96395799999993,People
+410514801,Less than 9th grade,46.01242,People
+410514801,"Some college, no degree",559.041693,People
+410514802,"9th to 12th grade, no diploma",112.998932,People
+410514802,Associate's degree,128.99905800000002,People
+410514802,Bachelor's degree,222.997802,People
+410514802,Graduate or professional degree,43.999968,People
+410514802,High school graduate (includes equivalency),471.996418,People
+410514802,Less than 9th grade,84.00041399999999,People
+410514802,"Some college, no degree",362.99804400000005,People
+410514803,"9th to 12th grade, no diploma",91.455259,People
+410514803,Associate's degree,106.26801,People
+410514803,Bachelor's degree,232.210364,People
+410514803,Graduate or professional degree,102.447457,People
+410514803,High school graduate (includes equivalency),330.934165,People
+410514803,Less than 9th grade,46.541722,People
+410514803,"Some college, no degree",296.790112,People
+410514804,"9th to 12th grade, no diploma",92.701038,People
+410514804,Associate's degree,85.291249,People
+410514804,Bachelor's degree,161.574364,People
+410514804,Graduate or professional degree,80.171583,People
+410514804,High school graduate (includes equivalency),308.765148,People
+410514804,Less than 9th grade,24.455454,People
+410514804,"Some college, no degree",320.352535,People
+410514805,"9th to 12th grade, no diploma",180.67505,People
+410514805,Associate's degree,265.069437,People
+410514805,Bachelor's degree,233.71295800000001,People
+410514805,Graduate or professional degree,176.35338099999998,People
+410514805,High school graduate (includes equivalency),760.100966,People
+410514805,Less than 9th grade,66.482595,People
+410514805,"Some college, no degree",593.946236,People
+410514806,"9th to 12th grade, no diploma",68.41435500000001,People
+410514806,Associate's degree,115.649045,People
+410514806,Bachelor's degree,292.540861,People
+410514806,Graduate or professional degree,175.685263,People
+410514806,High school graduate (includes equivalency),342.202383,People
+410514806,Less than 9th grade,29.784369,People
+410514806,"Some college, no degree",435.641095,People
+410514807,"9th to 12th grade, no diploma",159.633943,People
+410514807,Associate's degree,168.54147,People
+410514807,Bachelor's degree,259.621015,People
+410514807,Graduate or professional degree,107.619798,People
+410514807,High school graduate (includes equivalency),506.809086,People
+410514807,Less than 9th grade,82.95192700000001,People
+410514807,"Some college, no degree",491.27037800000005,People
+410514901,"9th to 12th grade, no diploma",20.677379000000002,People
+410514901,Associate's degree,174.213723,People
+410514901,Bachelor's degree,373.490471,People
+410514901,Graduate or professional degree,60.189662,People
+410514901,High school graduate (includes equivalency),508.654269,People
+410514901,Less than 9th grade,7.964085000000001,People
+410514901,"Some college, no degree",671.1446530000001,People
+410514902,"9th to 12th grade, no diploma",59.952855,People
+410514902,Associate's degree,111.844499,People
+410514902,Bachelor's degree,417.110423,People
+410514902,Graduate or professional degree,326.85449800000004,People
+410514902,High school graduate (includes equivalency),589.103133,People
+410514902,Less than 9th grade,134.498565,People
+410514902,"Some college, no degree",561.086356,People
+410514903,"9th to 12th grade, no diploma",108.49923100000001,People
+410514903,Associate's degree,156.890463,People
+410514903,Bachelor's degree,338.823929,People
+410514903,Graduate or professional degree,213.17815900000002,People
+410514903,High school graduate (includes equivalency),594.551024,People
+410514903,Less than 9th grade,82.147809,People
+410514903,"Some college, no degree",578.112021,People
+410514904,"9th to 12th grade, no diploma",62.831902,People
+410514904,Associate's degree,147.21940999999998,People
+410514904,Bachelor's degree,216.361494,People
+410514904,Graduate or professional degree,64.98309400000001,People
+410514904,High school graduate (includes equivalency),389.61911000000003,People
+410514904,Less than 9th grade,6.737112000000001,People
+410514904,"Some college, no degree",427.684649,People
+410514905,"9th to 12th grade, no diploma",37.612138,People
+410514905,Associate's degree,108.40091100000001,People
+410514905,Bachelor's degree,252.963242,People
+410514905,Graduate or professional degree,83.249606,People
+410514905,High school graduate (includes equivalency),284.271857,People
+410514905,Less than 9th grade,10.187771,People
+410514905,"Some college, no degree",405.746716,People
+410514906,"9th to 12th grade, no diploma",83.535884,People
+410514906,Associate's degree,71.27303,People
+410514906,Bachelor's degree,119.668538,People
+410514906,Graduate or professional degree,39.877456,People
+410514906,High school graduate (includes equivalency),370.019851,People
+410514906,Less than 9th grade,28.655293,People
+410514906,"Some college, no degree",345.88868,People
+410514907,"9th to 12th grade, no diploma",61.091479,People
+410514907,Associate's degree,108.02741100000001,People
+410514907,Bachelor's degree,398.916095,People
+410514907,Graduate or professional degree,306.331236,People
+410514907,High school graduate (includes equivalency),573.016159,People
+410514907,Less than 9th grade,127.00202000000002,People
+410514907,"Some college, no degree",545.463482,People
+410514908,"9th to 12th grade, no diploma",163.72112,People
+410514908,Associate's degree,304.77287,People
+410514908,Bachelor's degree,319.565966,People
+410514908,Graduate or professional degree,140.576833,People
+410514908,High school graduate (includes equivalency),657.667762,People
+410514908,Less than 9th grade,32.009382,People
+410514908,"Some college, no degree",714.140086,People
+410514909,"9th to 12th grade, no diploma",76.107353,People
+410514909,Associate's degree,172.47519300000002,People
+410514909,Bachelor's degree,157.701954,People
+410514909,Graduate or professional degree,57.564291,People
+410514909,High school graduate (includes equivalency),373.290545,People
+410514909,Less than 9th grade,42.77125,People
+410514909,"Some college, no degree",296.49485300000003,People
+410514910,"9th to 12th grade, no diploma",102.76737700000001,People
+410514910,Associate's degree,104.78417400000001,People
+410514910,Bachelor's degree,241.82110900000004,People
+410514910,Graduate or professional degree,102.664666,People
+410514910,High school graduate (includes equivalency),364.00444600000003,People
+410514910,Less than 9th grade,42.938839,People
+410514910,"Some college, no degree",362.377932,People
+410514911,"9th to 12th grade, no diploma",116.538527,People
+410514911,Associate's degree,100.787699,People
+410514911,Bachelor's degree,200.128005,People
+410514911,Graduate or professional degree,87.353047,People
+410514911,High school graduate (includes equivalency),453.46644,People
+410514911,Less than 9th grade,60.224295,People
+410514911,"Some college, no degree",431.612607,People
+410515001,"9th to 12th grade, no diploma",129.535798,People
+410515001,Associate's degree,128.25753,People
+410515001,Bachelor's degree,135.295739,People
+410515001,Graduate or professional degree,54.447269,People
+410515001,High school graduate (includes equivalency),481.524577,People
+410515001,Less than 9th grade,56.444739,People
+410515001,"Some college, no degree",402.702185,People
+410515002,"9th to 12th grade, no diploma",108.31302600000001,People
+410515002,Associate's degree,159.34561300000001,People
+410515002,Bachelor's degree,202.971868,People
+410515002,Graduate or professional degree,137.489668,People
+410515002,High school graduate (includes equivalency),340.373214,People
+410515002,Less than 9th grade,34.014137,People
+410515002,"Some college, no degree",407.596111,People
+410515003,"9th to 12th grade, no diploma",149.941822,People
+410515003,Associate's degree,286.166914,People
+410515003,Bachelor's degree,444.99424600000003,People
+410515003,Graduate or professional degree,168.394842,People
+410515003,High school graduate (includes equivalency),544.513094,People
+410515003,Less than 9th grade,36.983164,People
+410515003,"Some college, no degree",565.1305619999999,People
+410515004,"9th to 12th grade, no diploma",85.937174,People
+410515004,Associate's degree,150.997378,People
+410515004,Bachelor's degree,418.21829099999997,People
+410515004,Graduate or professional degree,172.142386,People
+410515004,High school graduate (includes equivalency),437.348505,People
+410515004,Less than 9th grade,24.861758,People
+410515004,"Some college, no degree",528.315205,People
+410515006,"9th to 12th grade, no diploma",86.887044,People
+410515006,Associate's degree,221.342644,People
+410515006,Bachelor's degree,254.37529100000003,People
+410515006,Graduate or professional degree,118.951034,People
+410515006,High school graduate (includes equivalency),476.015809,People
+410515006,Less than 9th grade,44.158999,People
+410515006,"Some college, no degree",554.045313,People
+410515007,"9th to 12th grade, no diploma",60.943482,People
+410515007,Associate's degree,149.92322000000001,People
+410515007,Bachelor's degree,205.225246,People
+410515007,Graduate or professional degree,108.19860100000001,People
+410515007,High school graduate (includes equivalency),340.919014,People
+410515007,Less than 9th grade,14.949641,People
+410515007,"Some college, no degree",319.261131,People
+410515008,"9th to 12th grade, no diploma",56.981357,People
+410515008,Associate's degree,149.772965,People
+410515008,Bachelor's degree,320.617029,People
+410515008,Graduate or professional degree,149.60924400000002,People
+410515008,High school graduate (includes equivalency),425.94171900000003,People
+410515008,Less than 9th grade,72.546498,People
+410515008,"Some college, no degree",500.111593,People
+410515009,"9th to 12th grade, no diploma",116.973699,People
+410515009,Associate's degree,37.740224000000005,People
+410515009,Bachelor's degree,89.659868,People
+410515009,Graduate or professional degree,36.71466,People
+410515009,High school graduate (includes equivalency),499.05840800000004,People
+410515009,Less than 9th grade,14.244202,People
+410515009,"Some college, no degree",376.67352900000003,People
+410515101,"9th to 12th grade, no diploma",201.01503999999997,People
+410515101,Associate's degree,190.99624,People
+410515101,Bachelor's degree,200.001034,People
+410515101,Graduate or professional degree,23.001692,People
+410515101,High school graduate (includes equivalency),535.00329,People
+410515101,Less than 9th grade,91.00376,People
+410515101,"Some college, no degree",340.01174999999995,People
+410515102,"9th to 12th grade, no diploma",186.54473099999998,People
+410515102,Associate's degree,161.809535,People
+410515102,Bachelor's degree,191.03171899999998,People
+410515102,Graduate or professional degree,86.18844,People
+410515102,High school graduate (includes equivalency),553.687554,People
+410515102,Less than 9th grade,91.999628,People
+410515102,"Some college, no degree",511.74898,People
+410515103,"9th to 12th grade, no diploma",153.877657,People
+410515103,Associate's degree,365.894688,People
+410515103,Bachelor's degree,521.613619,People
+410515103,Graduate or professional degree,313.61603,People
+410515103,High school graduate (includes equivalency),704.328222,People
+410515103,Less than 9th grade,122.32763,People
+410515103,"Some college, no degree",810.403304,People
+410515104,"9th to 12th grade, no diploma",140.70552,People
+410515104,Associate's degree,249.468244,People
+410515104,Bachelor's degree,392.702386,People
+410515104,Graduate or professional degree,206.038608,People
+410515104,High school graduate (includes equivalency),574.562816,People
+410515104,Less than 9th grade,94.361971,People
+410515104,"Some college, no degree",609.621076,People
+410515105,"9th to 12th grade, no diploma",100.16184100000001,People
+410515105,Associate's degree,216.684876,People
+410515105,Bachelor's degree,423.120312,People
+410515105,Graduate or professional degree,256.56637,People
+410515105,High school graduate (includes equivalency),548.6936870000001,People
+410515105,Less than 9th grade,72.622242,People
+410515105,"Some college, no degree",675.094983,People
+410515106,"9th to 12th grade, no diploma",77.434593,People
+410515106,Associate's degree,137.197745,People
+410515106,Bachelor's degree,271.109942,People
+410515106,Graduate or professional degree,152.653427,People
+410515106,High school graduate (includes equivalency),316.58538,People
+410515106,Less than 9th grade,67.818507,People
+410515106,"Some college, no degree",479.870178,People
+410515107,"9th to 12th grade, no diploma",80.655371,People
+410515107,Associate's degree,165.701595,People
+410515107,Bachelor's degree,352.103879,People
+410515107,Graduate or professional degree,223.840821,People
+410515107,High school graduate (includes equivalency),481.389631,People
+410515107,Less than 9th grade,76.437609,People
+410515107,"Some college, no degree",656.008838,People
+410515202,"9th to 12th grade, no diploma",23.512855000000002,People
+410515202,Associate's degree,65.519864,People
+410515202,Bachelor's degree,97.025574,People
+410515202,Graduate or professional degree,165.80726800000002,People
+410515202,High school graduate (includes equivalency),133.615625,People
+410515202,Less than 9th grade,0.33650899999999995,People
+410515202,"Some college, no degree",190.704117,People
+410515203,"9th to 12th grade, no diploma",108.033599,People
+410515203,Associate's degree,222.15729199999998,People
+410515203,Bachelor's degree,306.883438,People
+410515203,Graduate or professional degree,130.484462,People
+410515203,High school graduate (includes equivalency),337.247951,People
+410515203,Less than 9th grade,45.534801,People
+410515203,"Some college, no degree",366.558565,People
+410515204,"9th to 12th grade, no diploma",72.557132,People
+410515204,Associate's degree,182.979782,People
+410515204,Bachelor's degree,377.065388,People
+410515204,Graduate or professional degree,154.215938,People
+410515204,High school graduate (includes equivalency),490.761549,People
+410515204,Less than 9th grade,35.74076,People
+410515204,"Some college, no degree",477.42032800000004,People
+410670301,"9th to 12th grade, no diploma",83.552697,People
+410670301,Associate's degree,76.774888,People
+410670301,Bachelor's degree,232.04182,People
+410670301,Graduate or professional degree,69.410683,People
+410670301,High school graduate (includes equivalency),402.143921,People
+410670301,Less than 9th grade,5.158927,People
+410670301,"Some college, no degree",326.589409,People
+410670302,"9th to 12th grade, no diploma",37.12441,People
+410670302,Associate's degree,143.958007,People
+410670302,Bachelor's degree,186.568504,People
+410670302,Graduate or professional degree,48.759217,People
+410670302,High school graduate (includes equivalency),297.76392300000003,People
+410670302,Less than 9th grade,11.367249,People
+410670302,"Some college, no degree",362.214369,People
+410670303,"9th to 12th grade, no diploma",376.40228,People
+410670303,Associate's degree,551.935517,People
+410670303,Bachelor's degree,1793.438097,People
+410670303,Graduate or professional degree,938.719157,People
+410670303,High school graduate (includes equivalency),2135.862218,People
+410670303,Less than 9th grade,110.15353,People
+410670303,"Some college, no degree",1688.928751,People
+410670304,"9th to 12th grade, no diploma",55.163713,People
+410670304,Associate's degree,174.132825,People
+410670304,Bachelor's degree,213.829677,People
+410670304,Graduate or professional degree,58.407088,People
+410670304,High school graduate (includes equivalency),340.317761,People
+410670304,Less than 9th grade,18.992863,People
+410670304,"Some college, no degree",476.442928,People
+410670305,"9th to 12th grade, no diploma",128,People
+410670305,Associate's degree,329,People
+410670305,Bachelor's degree,517,People
+410670305,Graduate or professional degree,155,People
+410670305,High school graduate (includes equivalency),488,People
+410670305,Less than 9th grade,19,People
+410670305,"Some college, no degree",675,People
+410670306,"9th to 12th grade, no diploma",95.928568,People
+410670306,Associate's degree,113.05518800000002,People
+410670306,Bachelor's degree,145.14012300000002,People
+410670306,Graduate or professional degree,114.966118,People
+410670306,High school graduate (includes equivalency),408.645753,People
+410670306,Less than 9th grade,38.964874,People
+410670306,"Some college, no degree",524.6696350000001,People
+410670307,"9th to 12th grade, no diploma",67.350739,People
+410670307,Associate's degree,99.420872,People
+410670307,Bachelor's degree,229.328032,People
+410670307,Graduate or professional degree,59.226393,People
+410670307,High school graduate (includes equivalency),208.313917,People
+410670307,Less than 9th grade,4.4413219999999995,People
+410670307,"Some college, no degree",268.766568,People
+410670308,"9th to 12th grade, no diploma",84.947924,People
+410670308,Associate's degree,90.696929,People
+410670308,Bachelor's degree,188.922739,People
+410670308,Graduate or professional degree,45.627244,People
+410670308,High school graduate (includes equivalency),253.98557,People
+410670308,Less than 9th grade,18.617342999999998,People
+410670308,"Some college, no degree",276.144344,People
+410670309,"9th to 12th grade, no diploma",55.369927000000004,People
+410670309,Associate's degree,141.492132,People
+410670309,Bachelor's degree,586.3789939999999,People
+410670309,Graduate or professional degree,369.078613,People
+410670309,High school graduate (includes equivalency),314.715505,People
+410670309,Less than 9th grade,20.056154,People
+410670309,"Some college, no degree",387.183877,People
+410670310,"9th to 12th grade, no diploma",67.920636,People
+410670310,Associate's degree,67.660828,People
+410670310,Bachelor's degree,148.02251,People
+410670310,Graduate or professional degree,77.525846,People
+410670310,High school graduate (includes equivalency),300.65390199999996,People
+410670310,Less than 9th grade,35.176535,People
+410670310,"Some college, no degree",217.890057,People
+410670311,"9th to 12th grade, no diploma",67.835011,People
+410670311,Associate's degree,74.52256,People
+410670311,Bachelor's degree,248.30963099999997,People
+410670311,Graduate or professional degree,152.44981199999998,People
+410670311,High school graduate (includes equivalency),467.80513799999994,People
+410670311,Less than 9th grade,27.591492999999996,People
+410670311,"Some college, no degree",324.770194,People
+410670312,"9th to 12th grade, no diploma",46.913061000000006,People
+410670312,Associate's degree,71.84880600000001,People
+410670312,Bachelor's degree,245.774369,People
+410670312,Graduate or professional degree,86.84117,People
+410670312,High school graduate (includes equivalency),256.287199,People
+410670312,Less than 9th grade,9.687417,People
+410670312,"Some college, no degree",265.888198,People
+410670313,"9th to 12th grade, no diploma",59.006795,People
+410670313,Associate's degree,142.960589,People
+410670313,Bachelor's degree,367.316647,People
+410670313,Graduate or professional degree,286.82333,People
+410670313,High school graduate (includes equivalency),428.821971,People
+410670313,Less than 9th grade,10.106002,People
+410670313,"Some college, no degree",312.800227,People
+410670314,"9th to 12th grade, no diploma",33.859939,People
+410670314,Associate's degree,71.729348,People
+410670314,Bachelor's degree,156.95763699999998,People
+410670314,Graduate or professional degree,30.396459999999998,People
+410670314,High school graduate (includes equivalency),327.238909,People
+410670314,Less than 9th grade,27.401137999999996,People
+410670314,"Some college, no degree",232.755549,People
+410670315,"9th to 12th grade, no diploma",76.914418,People
+410670315,Associate's degree,120.99799200000001,People
+410670315,Bachelor's degree,555.275828,People
+410670315,Graduate or professional degree,421.051592,People
+410670315,High school graduate (includes equivalency),590.089736,People
+410670315,Less than 9th grade,0.362529,People
+410670315,"Some college, no degree",575.7534770000001,People
+410670316,"9th to 12th grade, no diploma",39.120191999999996,People
+410670316,Associate's degree,39.865929,People
+410670316,Bachelor's degree,230.02163099999999,People
+410670316,Graduate or professional degree,195.27299,People
+410670316,High school graduate (includes equivalency),235.332617,People
+410670316,Less than 9th grade,0.049375,People
+410670316,"Some college, no degree",251.941029,People
+410670317,"9th to 12th grade, no diploma",195.173162,People
+410670317,Associate's degree,303.753979,People
+410670317,Bachelor's degree,1017.992913,People
+410670317,Graduate or professional degree,470.494825,People
+410670317,High school graduate (includes equivalency),1219.3781450000001,People
+410670317,Less than 9th grade,46.666964,People
+410670317,"Some college, no degree",1186.481889,People
+410670318,"9th to 12th grade, no diploma",69.122988,People
+410670318,Associate's degree,191.456194,People
+410670318,Bachelor's degree,359.481816,People
+410670318,Graduate or professional degree,221.70985100000001,People
+410670318,High school graduate (includes equivalency),374.008552,People
+410670318,Less than 9th grade,22.312564,People
+410670318,"Some college, no degree",413.512335,People
+410670319,"9th to 12th grade, no diploma",93.567272,People
+410670319,Associate's degree,208.147611,People
+410670319,Bachelor's degree,442.580329,People
+410670319,Graduate or professional degree,122.402471,People
+410670319,High school graduate (includes equivalency),328.10229300000003,People
+410670319,Less than 9th grade,48.337166,People
+410670319,"Some college, no degree",383.984554,People
+410670320,"9th to 12th grade, no diploma",120.611921,People
+410670320,Associate's degree,159.032476,People
+410670320,Bachelor's degree,208.461736,People
+410670320,Graduate or professional degree,58.758794,People
+410670320,High school graduate (includes equivalency),310.508693,People
+410670320,Less than 9th grade,0.066011,People
+410670320,"Some college, no degree",271.22589600000003,People
+410670321,"9th to 12th grade, no diploma",72.275974,People
+410670321,Associate's degree,56.016775,People
+410670321,Bachelor's degree,101.013529,People
+410670321,Graduate or professional degree,91.015693,People
+410670321,High school graduate (includes equivalency),477.431277,People
+410670321,Less than 9th grade,52.017857,People
+410670321,"Some college, no degree",227.80790100000002,People
+410670322,"9th to 12th grade, no diploma",191.65522700000002,People
+410670322,Associate's degree,282.405461,People
+410670322,Bachelor's degree,917.322638,People
+410670322,Graduate or professional degree,481.941637,People
+410670322,High school graduate (includes equivalency),1091.902923,People
+410670322,Less than 9th grade,54.869206,People
+410670322,"Some college, no degree",862.892362,People
+410670323,"9th to 12th grade, no diploma",32.975849999999994,People
+410670323,Associate's degree,264.81163,People
+410670323,Bachelor's degree,734.6812199999999,People
+410670323,Graduate or professional degree,361.83578,People
+410670323,High school graduate (includes equivalency),712.5701300000001,People
+410670323,Less than 9th grade,0.04347,People
+410670323,"Some college, no degree",628.82773,People
+410670324,"9th to 12th grade, no diploma",50.714839,People
+410670324,Associate's degree,88.521703,People
+410670324,Bachelor's degree,153.99861,People
+410670324,Graduate or professional degree,31.145306,People
+410670324,High school graduate (includes equivalency),182.383418,People
+410670324,Less than 9th grade,0.6685139999999999,People
+410670324,"Some college, no degree",168.76215000000002,People
+410670325,"9th to 12th grade, no diploma",136.500162,People
+410670325,Associate's degree,395.198233,People
+410670325,Bachelor's degree,1153.614901,People
+410670325,Graduate or professional degree,598.192139,People
+410670325,High school graduate (includes equivalency),870.458409,People
+410670325,Less than 9th grade,57.397919,People
+410670325,"Some college, no degree",1073.942675,People
+410670326,"9th to 12th grade, no diploma",72.106452,People
+410670326,Associate's degree,68.228954,People
+410670326,Bachelor's degree,220.91955000000002,People
+410670326,Graduate or professional degree,112.142829,People
+410670326,High school graduate (includes equivalency),288.311886,People
+410670326,Less than 9th grade,3.2773440000000003,People
+410670326,"Some college, no degree",255.750808,People
+410670327,"9th to 12th grade, no diploma",308.986015,People
+410670327,Associate's degree,480.631426,People
+410670327,Bachelor's degree,1561.324546,People
+410670327,Graduate or professional degree,727.885538,People
+410670327,High school graduate (includes equivalency),1604.067509,People
+410670327,Less than 9th grade,83.649781,People
+410670327,"Some college, no degree",1427.6404890000001,People
+410670328,"9th to 12th grade, no diploma",453.348147,People
+410670328,Associate's degree,637.46539,People
+410670328,Bachelor's degree,2098.47975,People
+410670328,Graduate or professional degree,1056.506007,People
+410670328,High school graduate (includes equivalency),2500.538117,People
+410670328,Less than 9th grade,116.963326,People
+410670328,"Some college, no degree",2093.406423,People
+410670329,"9th to 12th grade, no diploma",32.561309,People
+410670329,Associate's degree,209.86812600000002,People
+410670329,Bachelor's degree,813.2440220000001,People
+410670329,Graduate or professional degree,637.599104,People
+410670329,High school graduate (includes equivalency),342.59155499999997,People
+410670329,Less than 9th grade,31.784206,People
+410670329,"Some college, no degree",506.844314,People
+410670330,"9th to 12th grade, no diploma",103.150676,People
+410670330,Associate's degree,112.342966,People
+410670330,Bachelor's degree,440.960924,People
+410670330,Graduate or professional degree,152.688956,People
+410670330,High school graduate (includes equivalency),472.317154,People
+410670330,Less than 9th grade,27.894794,People
+410670330,"Some college, no degree",577.478824,People
+410670331,"9th to 12th grade, no diploma",72.490827,People
+410670331,Associate's degree,155.262351,People
+410670331,Bachelor's degree,742.614406,People
+410670331,Graduate or professional degree,725.328268,People
+410670331,High school graduate (includes equivalency),364.06078,People
+410670331,Less than 9th grade,41.625907,People
+410670331,"Some college, no degree",611.93785,People
+410670332,"9th to 12th grade, no diploma",116.84165399999999,People
+410670332,Associate's degree,297.849329,People
+410670332,Bachelor's degree,1031.548655,People
+410670332,Graduate or professional degree,405.824394,People
+410670332,High school graduate (includes equivalency),523.1988249999999,People
+410670332,Less than 9th grade,94.691017,People
+410670332,"Some college, no degree",721.507875,People
+410670333,"9th to 12th grade, no diploma",97.743804,People
+410670333,Associate's degree,363.452973,People
+410670333,Bachelor's degree,797.386276,People
+410670333,Graduate or professional degree,414.006289,People
+410670333,High school graduate (includes equivalency),536.425922,People
+410670333,Less than 9th grade,32.195447,People
+410670333,"Some college, no degree",1068.4357479999999,People
+410670334,"9th to 12th grade, no diploma",37.710856,People
+410670334,Associate's degree,69.681031,People
+410670334,Bachelor's degree,299.965686,People
+410670334,Graduate or professional degree,219.21682800000002,People
+410670334,High school graduate (includes equivalency),323.293468,People
+410670334,Less than 9th grade,0,People
+410670334,"Some college, no degree",304.041782,People
+410670335,"9th to 12th grade, no diploma",63.151793999999995,People
+410670335,Associate's degree,141.77605,People
+410670335,Bachelor's degree,396.621931,People
+410670335,Graduate or professional degree,232.435687,People
+410670335,High school graduate (includes equivalency),206.29612600000002,People
+410670335,Less than 9th grade,13.522585999999999,People
+410670335,"Some college, no degree",331.102438,People
+410670336,"9th to 12th grade, no diploma",68.746465,People
+410670336,Associate's degree,149.286146,People
+410670336,Bachelor's degree,120.886563,People
+410670336,Graduate or professional degree,69.429801,People
+410670336,High school graduate (includes equivalency),232.942788,People
+410670336,Less than 9th grade,21.171075000000002,People
+410670336,"Some college, no degree",268.192886,People
+410670337,"9th to 12th grade, no diploma",59.011817,People
+410670337,Associate's degree,126.36835199999999,People
+410670337,Bachelor's degree,213.427581,People
+410670337,Graduate or professional degree,78.295792,People
+410670337,High school graduate (includes equivalency),266.283261,People
+410670337,Less than 9th grade,63.104274,People
+410670337,"Some college, no degree",267.179413,People
+410670338,"9th to 12th grade, no diploma",174.581007,People
+410670338,Associate's degree,144.186772,People
+410670338,Bachelor's degree,190.361972,People
+410670338,Graduate or professional degree,71.977952,People
+410670338,High school graduate (includes equivalency),449.544449,People
+410670338,Less than 9th grade,72.961581,People
+410670338,"Some college, no degree",450.892818,People
+410670339,"9th to 12th grade, no diploma",149.460361,People
+410670339,Associate's degree,161.631653,People
+410670339,Bachelor's degree,210.815091,People
+410670339,Graduate or professional degree,119.967432,People
+410670339,High school graduate (includes equivalency),457.304949,People
+410670339,Less than 9th grade,101.305644,People
+410670339,"Some college, no degree",679.6632490000001,People
+410670340,"9th to 12th grade, no diploma",129.65457800000001,People
+410670340,Associate's degree,170.58509,People
+410670340,Bachelor's degree,511.693888,People
+410670340,Graduate or professional degree,260.303137,People
+410670340,High school graduate (includes equivalency),522.919498,People
+410670340,Less than 9th grade,34.990301,People
+410670340,"Some college, no degree",655.120724,People
+410670341,"9th to 12th grade, no diploma",259.568378,People
+410670341,Associate's degree,152.218111,People
+410670341,Bachelor's degree,249.567746,People
+410670341,Graduate or professional degree,93.065012,People
+410670341,High school graduate (includes equivalency),560.47831,People
+410670341,Less than 9th grade,96.99498200000001,People
+410670341,"Some college, no degree",805.2627759999999,People
+410670342,"9th to 12th grade, no diploma",256.000155,People
+410670342,Associate's degree,379.999984,People
+410670342,Bachelor's degree,1198.999628,People
+410670342,Graduate or professional degree,639.999849,People
+410670342,High school graduate (includes equivalency),1145.000368,People
+410670342,Less than 9th grade,64.000021,People
+410670342,"Some college, no degree",1590.999709,People
+410670343,"9th to 12th grade, no diploma",42.818988,People
+410670343,Associate's degree,112.950631,People
+410670343,Bachelor's degree,245.22440500000002,People
+410670343,Graduate or professional degree,170.41622,People
+410670343,High school graduate (includes equivalency),219.316597,People
+410670343,Less than 9th grade,9.413062,People
+410670343,"Some college, no degree",296.484806,People
+410670344,"9th to 12th grade, no diploma",134.41914,People
+410670344,Associate's degree,70.51687100000001,People
+410670344,Bachelor's degree,176.099672,People
+410670344,Graduate or professional degree,54.724503999999996,People
+410670344,High school graduate (includes equivalency),446.990415,People
+410670344,Less than 9th grade,43.201976,People
+410670344,"Some college, no degree",380.149021,People
+410670345,"9th to 12th grade, no diploma",411.96561199999996,People
+410670345,Associate's degree,675.025733,People
+410670345,Bachelor's degree,1123.972027,People
+410670345,Graduate or professional degree,438.86591,People
+410670345,High school graduate (includes equivalency),1236.477916,People
+410670345,Less than 9th grade,162.17765500000002,People
+410670345,"Some college, no degree",1550.370202,People
+410670346,"9th to 12th grade, no diploma",67.56199000000001,People
+410670346,Associate's degree,110.38730600000001,People
+410670346,Bachelor's degree,97.742349,People
+410670346,Graduate or professional degree,14.471492999999999,People
+410670346,High school graduate (includes equivalency),402.25736800000004,People
+410670346,Less than 9th grade,12.107981,People
+410670346,"Some college, no degree",325.796573,People
+410670347,"9th to 12th grade, no diploma",126.96339499999999,People
+410670347,Associate's degree,126.78872299999999,People
+410670347,Bachelor's degree,181.872553,People
+410670347,Graduate or professional degree,70.404202,People
+410670347,High school graduate (includes equivalency),313.329074,People
+410670347,Less than 9th grade,77.9121,People
+410670347,"Some college, no degree",366.833955,People
+410670348,"9th to 12th grade, no diploma",2.765476,People
+410670348,Associate's degree,158.204535,People
+410670348,Bachelor's degree,373.294471,People
+410670348,Graduate or professional degree,185.865807,People
+410670348,High school graduate (includes equivalency),87.616759,People
+410670348,Less than 9th grade,19.092339,People
+410670348,"Some college, no degree",395.80496899999997,People
+410670349,"9th to 12th grade, no diploma",35.970545,People
+410670349,Associate's degree,161.192871,People
+410670349,Bachelor's degree,332.49544699999996,People
+410670349,Graduate or professional degree,103.885575,People
+410670349,High school graduate (includes equivalency),293.935886,People
+410670349,Less than 9th grade,17.547358,People
+410670349,"Some college, no degree",382.110412,People
+410670350,"9th to 12th grade, no diploma",101.71771,People
+410670350,Associate's degree,144.719594,People
+410670350,Bachelor's degree,329.343572,People
+410670350,Graduate or professional degree,110.880183,People
+410670350,High school graduate (includes equivalency),347.918896,People
+410670350,Less than 9th grade,42.266705,People
+410670350,"Some college, no degree",350.71917299999996,People
+410670351,"9th to 12th grade, no diploma",35.621454,People
+410670351,Associate's degree,154.71122,People
+410670351,Bachelor's degree,229.18451700000003,People
+410670351,Graduate or professional degree,48.303672000000006,People
+410670351,High school graduate (includes equivalency),284.68192,People
+410670351,Less than 9th grade,51.73082,People
+410670351,"Some college, no degree",237.641808,People
+410670352,"9th to 12th grade, no diploma",71.966310000000007,People
+410670352,Associate's degree,225.591568,People
+410670352,Bachelor's degree,421.410281,People
+410670352,Graduate or professional degree,93.788269,People
+410670352,High school graduate (includes equivalency),406.744753,People
+410670352,Less than 9th grade,152.86013300000002,People
+410670352,"Some college, no degree",492.316495,People
+410670353,"9th to 12th grade, no diploma",80.639149,People
+410670353,Associate's degree,311.879323,People
+410670353,Bachelor's degree,635.65453,People
+410670353,Graduate or professional degree,299.277897,People
+410670353,High school graduate (includes equivalency),377.484687,People
+410670353,Less than 9th grade,40.034536,People
+410670353,"Some college, no degree",647.919226,People
+410670354,"9th to 12th grade, no diploma",38.245679,People
+410670354,Associate's degree,147.229459,People
+410670354,Bachelor's degree,545.440389,People
+410670354,Graduate or professional degree,232.319467,People
+410670354,High school graduate (includes equivalency),270.097091,People
+410670354,Less than 9th grade,19.487589999999997,People
+410670354,"Some college, no degree",384.457358,People
+410670355,"9th to 12th grade, no diploma",133.362156,People
+410670355,Associate's degree,283.777762,People
+410670355,Bachelor's degree,664.005883,People
+410670355,Graduate or professional degree,303.968529,People
+410670355,High school graduate (includes equivalency),513.827761,People
+410670355,Less than 9th grade,91.88830899999999,People
+410670355,"Some college, no degree",571.367531,People
+410670356,"9th to 12th grade, no diploma",36.346245,People
+410670356,Associate's degree,171.88342,People
+410670356,Bachelor's degree,309.533633,People
+410670356,Graduate or professional degree,165.842176,People
+410670356,High school graduate (includes equivalency),373.729162,People
+410670356,Less than 9th grade,17.094658,People
+410670356,"Some college, no degree",445.710914,People
+410670357,"9th to 12th grade, no diploma",218.671099,People
+410670357,Associate's degree,530.972184,People
+410670357,Bachelor's degree,1056.22416,People
+410670357,Graduate or professional degree,628.09406,People
+410670357,High school graduate (includes equivalency),958.5958049999999,People
+410670357,Less than 9th grade,91.370548,People
+410670357,"Some college, no degree",839.528864,People
+410670358,"9th to 12th grade, no diploma",50.256485000000005,People
+410670358,Associate's degree,148.353503,People
+410670358,Bachelor's degree,413.387717,People
+410670358,Graduate or professional degree,290.561733,People
+410670358,High school graduate (includes equivalency),121.00008700000001,People
+410670358,Less than 9th grade,3.476411,People
+410670358,"Some college, no degree",283.24371,People
+410670359,"9th to 12th grade, no diploma",112.391242,People
+410670359,Associate's degree,273.264768,People
+410670359,Bachelor's degree,770.955245,People
+410670359,Graduate or professional degree,462.04370600000004,People
+410670359,High school graduate (includes equivalency),519.384675,People
+410670359,Less than 9th grade,78.51969000000001,People
+410670359,"Some college, no degree",735.177626,People
+410670360,"9th to 12th grade, no diploma",62.062812,People
+410670360,Associate's degree,202.480968,People
+410670360,Bachelor's degree,614.62009,People
+410670360,Graduate or professional degree,234.98561999999998,People
+410670360,High school graduate (includes equivalency),351.532757,People
+410670360,Less than 9th grade,42.852911999999996,People
+410670360,"Some college, no degree",430.324334,People
+410670361,"9th to 12th grade, no diploma",218.86841399999997,People
+410670361,Associate's degree,272.796651,People
+410670361,Bachelor's degree,407.823098,People
+410670361,Graduate or professional degree,259.958691,People
+410670361,High school graduate (includes equivalency),559.768731,People
+410670361,Less than 9th grade,40.559118,People
+410670361,"Some college, no degree",379.202333,People
+410670362,"9th to 12th grade, no diploma",10.715911,People
+410670362,Associate's degree,292.435088,People
+410670362,Bachelor's degree,1310.194879,People
+410670362,Graduate or professional degree,1066.140639,People
+410670362,High school graduate (includes equivalency),527.703855,People
+410670362,Less than 9th grade,5.226926000000001,People
+410670362,"Some college, no degree",727.788524,People
+410670363,"9th to 12th grade, no diploma",98.61552999999999,People
+410670363,Associate's degree,471.484571,People
+410670363,Bachelor's degree,1742.114219,People
+410670363,Graduate or professional degree,1419.544567,People
+410670363,High school graduate (includes equivalency),547.189133,People
+410670363,Less than 9th grade,31.139399,People
+410670363,"Some college, no degree",1330.762872,People
+410670364,"9th to 12th grade, no diploma",20.119185,People
+410670364,Associate's degree,86.077999,People
+410670364,Bachelor's degree,581.492078,People
+410670364,Graduate or professional degree,493.049522,People
+410670364,High school graduate (includes equivalency),138.939751,People
+410670364,Less than 9th grade,38.809029,People
+410670364,"Some college, no degree",204.297529,People
+410670365,"9th to 12th grade, no diploma",11.564465,People
+410670365,Associate's degree,99.05136499999999,People
+410670365,Bachelor's degree,1078.1175349999999,People
+410670365,Graduate or professional degree,765.351668,People
+410670365,High school graduate (includes equivalency),98.47260399999999,People
+410670365,Less than 9th grade,3.57956,People
+410670365,"Some college, no degree",314.741587,People
+410670366,"9th to 12th grade, no diploma",56.756005,People
+410670366,Associate's degree,212.797822,People
+410670366,Bachelor's degree,796.25513,People
+410670366,Graduate or professional degree,530.262411,People
+410670366,High school graduate (includes equivalency),199.21135199999998,People
+410670366,Less than 9th grade,14.083175,People
+410670366,"Some college, no degree",408.91593500000005,People
+410670367,"9th to 12th grade, no diploma",32.681297,People
+410670367,Associate's degree,87.221613,People
+410670367,Bachelor's degree,656.297771,People
+410670367,Graduate or professional degree,972.475704,People
+410670367,High school graduate (includes equivalency),186.398581,People
+410670367,Less than 9th grade,24.866585999999998,People
+410670367,"Some college, no degree",392.619999,People
+410670368,"9th to 12th grade, no diploma",50.363582,People
+410670368,Associate's degree,186.60776800000002,People
+410670368,Bachelor's degree,750.40077,People
+410670368,Graduate or professional degree,308.27273,People
+410670368,High school graduate (includes equivalency),233.357752,People
+410670368,Less than 9th grade,47.914952,People
+410670368,"Some college, no degree",356.69236500000005,People
+410670369,"9th to 12th grade, no diploma",42.523326,People
+410670369,Associate's degree,132.41702999999998,People
+410670369,Bachelor's degree,328.721003,People
+410670369,Graduate or professional degree,196.60522799999998,People
+410670369,High school graduate (includes equivalency),181.90921699999998,People
+410670369,Less than 9th grade,3.411566,People
+410670369,"Some college, no degree",193.15524499999998,People
+410670370,"9th to 12th grade, no diploma",53.027663000000004,People
+410670370,Associate's degree,157.951698,People
+410670370,Bachelor's degree,494.841287,People
+410670370,Graduate or professional degree,244.71813899999998,People
+410670370,High school graduate (includes equivalency),329.20123,People
+410670370,Less than 9th grade,18.630788,People
+410670370,"Some college, no degree",427.338161,People
+410670371,"9th to 12th grade, no diploma",28.774334,People
+410670371,Associate's degree,141.175892,People
+410670371,Bachelor's degree,430.18776599999995,People
+410670371,Graduate or professional degree,280.614602,People
+410670371,High school graduate (includes equivalency),137.85975,People
+410670371,Less than 9th grade,0.083479,People
+410670371,"Some college, no degree",368.38332899999995,People
+410670372,"9th to 12th grade, no diploma",2.648825,People
+410670372,Associate's degree,96.123225,People
+410670372,Bachelor's degree,386.769618,People
+410670372,Graduate or professional degree,270.53002699999996,People
+410670372,High school graduate (includes equivalency),133.722337,People
+410670372,Less than 9th grade,0.015442000000000001,People
+410670372,"Some college, no degree",203.44902399999998,People
+410670373,"9th to 12th grade, no diploma",22.000006,People
+410670373,Associate's degree,65.000064,People
+410670373,Bachelor's degree,128.000554,People
+410670373,Graduate or professional degree,96.000484,People
+410670373,High school graduate (includes equivalency),109.000556,People
+410670373,Less than 9th grade,0,People
+410670373,"Some college, no degree",96.000594,People
+410670374,"9th to 12th grade, no diploma",71.598493,People
+410670374,Associate's degree,208.109869,People
+410670374,Bachelor's degree,760.226432,People
+410670374,Graduate or professional degree,496.033119,People
+410670374,High school graduate (includes equivalency),835.562294,People
+410670374,Less than 9th grade,0.36273600000000006,People
+410670374,"Some college, no degree",721.261446,People
+410670375,"9th to 12th grade, no diploma",0.021412,People
+410670375,Associate's degree,281.225544,People
+410670375,Bachelor's degree,3941.261109,People
+410670375,Graduate or professional degree,2723.091218,People
+410670375,High school graduate (includes equivalency),275.420631,People
+410670375,Less than 9th grade,0,People
+410670375,"Some college, no degree",993.39656,People
+410670376,"9th to 12th grade, no diploma",25.415112999999998,People
+410670376,Associate's degree,101.78736599999999,People
+410670376,Bachelor's degree,536.803356,People
+410670376,Graduate or professional degree,283.342951,People
+410670376,High school graduate (includes equivalency),140.010952,People
+410670376,Less than 9th grade,15.000672999999999,People
+410670376,"Some college, no degree",325.840864,People
+410670377,"9th to 12th grade, no diploma",33.149995000000004,People
+410670377,Associate's degree,88.978452,People
+410670377,Bachelor's degree,675.933326,People
+410670377,Graduate or professional degree,736.817535,People
+410670377,High school graduate (includes equivalency),206.81636600000002,People
+410670377,Less than 9th grade,70.584956,People
+410670377,"Some college, no degree",432.47589100000005,People
+410670378,"9th to 12th grade, no diploma",68.624741,People
+410670378,Associate's degree,350.789181,People
+410670378,Bachelor's degree,1086.606577,People
+410670378,Graduate or professional degree,736.654966,People
+410670378,High school graduate (includes equivalency),431.402304,People
+410670378,Less than 9th grade,7.8011479999999995,People
+410670378,"Some college, no degree",599.840495,People
+410670379,"9th to 12th grade, no diploma",85.43335400000001,People
+410670379,Associate's degree,67.965152,People
+410670379,Bachelor's degree,239.139456,People
+410670379,Graduate or professional degree,82.77721799999999,People
+410670379,High school graduate (includes equivalency),223.213621,People
+410670379,Less than 9th grade,38.241507,People
+410670379,"Some college, no degree",302.903935,People
+410670380,"9th to 12th grade, no diploma",31.818986,People
+410670380,Associate's degree,102.01388700000001,People
+410670380,Bachelor's degree,529.95682,People
+410670380,Graduate or professional degree,191.576107,People
+410670380,High school graduate (includes equivalency),211.779156,People
+410670380,Less than 9th grade,14.777598000000001,People
+410670380,"Some college, no degree",309.318541,People
+410670381,"9th to 12th grade, no diploma",19.267008,People
+410670381,Associate's degree,72.492463,People
+410670381,Bachelor's degree,513.2165630000001,People
+410670381,Graduate or professional degree,1014.391833,People
+410670381,High school graduate (includes equivalency),163.652172,People
+410670381,Less than 9th grade,0.635475,People
+410670381,"Some college, no degree",250.002596,People
+410670382,"9th to 12th grade, no diploma",73.911422,People
+410670382,Associate's degree,73.797807,People
+410670382,Bachelor's degree,214.334633,People
+410670382,Graduate or professional degree,96.608485,People
+410670382,High school graduate (includes equivalency),218.491297,People
+410670382,Less than 9th grade,30.492594,People
+410670382,"Some college, no degree",206.119595,People
+410670383,"9th to 12th grade, no diploma",28.864255999999997,People
+410670383,Associate's degree,51.66735499999999,People
+410670383,Bachelor's degree,594.2306159999999,People
+410670383,Graduate or professional degree,360.903103,People
+410670383,High school graduate (includes equivalency),141.72168599999998,People
+410670383,Less than 9th grade,4.569304,People
+410670383,"Some college, no degree",179.844093,People
+410670384,"9th to 12th grade, no diploma",26.696213,People
+410670384,Associate's degree,82.54308200000001,People
+410670384,Bachelor's degree,402.602476,People
+410670384,Graduate or professional degree,196.622171,People
+410670384,High school graduate (includes equivalency),138.389259,People
+410670384,Less than 9th grade,0.48534,People
+410670384,"Some college, no degree",278.651336,People
+410670385,"9th to 12th grade, no diploma",203.926043,People
+410670385,Associate's degree,220.366147,People
+410670385,Bachelor's degree,1015.401792,People
+410670385,Graduate or professional degree,652.234726,People
+410670385,High school graduate (includes equivalency),249.162273,People
+410670385,Less than 9th grade,31.33866,People
+410670385,"Some college, no degree",690.432374,People
+410670386,"9th to 12th grade, no diploma",38.450147,People
+410670386,Associate's degree,60.055504,People
+410670386,Bachelor's degree,672.8300810000001,People
+410670386,Graduate or professional degree,516.803805,People
+410670386,High school graduate (includes equivalency),184.775463,People
+410670386,Less than 9th grade,25.882417999999998,People
+410670386,"Some college, no degree",331.63571,People
+410670387,"9th to 12th grade, no diploma",38.330518,People
+410670387,Associate's degree,236.028595,People
+410670387,Bachelor's degree,700.3560190000001,People
+410670387,Graduate or professional degree,459.595144,People
+410670387,High school graduate (includes equivalency),214.976274,People
+410670387,Less than 9th grade,13.877486000000001,People
+410670387,"Some college, no degree",473.16473,People
+410670388,"9th to 12th grade, no diploma",61.177822,People
+410670388,Associate's degree,281.717575,People
+410670388,Bachelor's degree,888.24889,People
+410670388,Graduate or professional degree,400.869046,People
+410670388,High school graduate (includes equivalency),412.046986,People
+410670388,Less than 9th grade,25.583242,People
+410670388,"Some college, no degree",911.426453,People
+410670389,"9th to 12th grade, no diploma",45.501895,People
+410670389,Associate's degree,150.063084,People
+410670389,Bachelor's degree,619.391562,People
+410670389,Graduate or professional degree,288.06376400000005,People
+410670389,High school graduate (includes equivalency),251.550263,People
+410670389,Less than 9th grade,17.053642,People
+410670389,"Some college, no degree",427.16272100000003,People
+410670390,"9th to 12th grade, no diploma",35.680909,People
+410670390,Associate's degree,138.816003,People
+410670390,Bachelor's degree,594.102627,People
+410670390,Graduate or professional degree,373.149367,People
+410670390,High school graduate (includes equivalency),152.832502,People
+410670390,Less than 9th grade,68.141421,People
+410670390,"Some college, no degree",233.77430299999997,People
+410670391,"9th to 12th grade, no diploma",33.848965,People
+410670391,Associate's degree,161.639052,People
+410670391,Bachelor's degree,945.2119399999999,People
+410670391,Graduate or professional degree,515.432898,People
+410670391,High school graduate (includes equivalency),328.47999300000004,People
+410670391,Less than 9th grade,3.245578,People
+410670391,"Some college, no degree",545.882678,People
+410670392,"9th to 12th grade, no diploma",849.272583,People
+410670392,Associate's degree,899.262748,People
+410670392,Bachelor's degree,3244.816019,People
+410670392,Graduate or professional degree,2299.895715,People
+410670392,High school graduate (includes equivalency),687.131188,People
+410670392,Less than 9th grade,141.075296,People
+410670392,"Some college, no degree",2795.711608,People
+410670393,"9th to 12th grade, no diploma",363.07888,People
+410670393,Associate's degree,358.319507,People
+410670393,Bachelor's degree,1616.393104,People
+410670393,Graduate or professional degree,1076.304495,People
+410670393,High school graduate (includes equivalency),426.359444,People
+410670393,Less than 9th grade,59.214282,People
+410670393,"Some college, no degree",1133.887042,People
+410670394,"9th to 12th grade, no diploma",2.8215580000000005,People
+410670394,Associate's degree,37.066986,People
+410670394,Bachelor's degree,119.068664,People
+410670394,Graduate or professional degree,114.166444,People
+410670394,High school graduate (includes equivalency),10.881578,People
+410670394,Less than 9th grade,9.08904,People
+410670394,"Some college, no degree",127.919402,People
+410670395,"9th to 12th grade, no diploma",74.331292,People
+410670395,Associate's degree,161.65004399999998,People
+410670395,Bachelor's degree,701.372856,People
+410670395,Graduate or professional degree,467.72218499999997,People
+410670395,High school graduate (includes equivalency),340.175696,People
+410670395,Less than 9th grade,7.574415,People
+410670395,"Some college, no degree",365.299032,People
+410670396,"9th to 12th grade, no diploma",2.0107850000000003,People
+410670396,Associate's degree,46.142432,People
+410670396,Bachelor's degree,256.420278,People
+410670396,Graduate or professional degree,152.34934,People
+410670396,High school graduate (includes equivalency),85.747062,People
+410670396,Less than 9th grade,2.495559,People
+410670396,"Some college, no degree",172.650836,People
+410670397,"9th to 12th grade, no diploma",48.624471,People
+410670397,Associate's degree,236.24530600000003,People
+410670397,Bachelor's degree,942.535328,People
+410670397,Graduate or professional degree,694.4031640000001,People
+410670397,High school graduate (includes equivalency),357.271101,People
+410670397,Less than 9th grade,9.493141,People
+410670397,"Some college, no degree",703.0505850000001,People
+410670398,"9th to 12th grade, no diploma",66.56386,People
+410670398,Associate's degree,212.884639,People
+410670398,Bachelor's degree,663.758372,People
+410670398,Graduate or professional degree,420.859011,People
+410670398,High school graduate (includes equivalency),181.689779,People
+410670398,Less than 9th grade,50.06473,People
+410670398,"Some college, no degree",374.2747,People
+410670399,"9th to 12th grade, no diploma",76.818442,People
+410670399,Associate's degree,167.844397,People
+410670399,Bachelor's degree,927.4936150000001,People
+410670399,Graduate or professional degree,586.267557,People
+410670399,High school graduate (includes equivalency),817.360712,People
+410670399,Less than 9th grade,25.157493,People
+410670399,"Some college, no degree",784.904891,People
+410670400,"9th to 12th grade, no diploma",50.896367999999995,People
+410670400,Associate's degree,102.565539,People
+410670400,Bachelor's degree,311.89059,People
+410670400,Graduate or professional degree,137.731609,People
+410670400,High school graduate (includes equivalency),290.474659,People
+410670400,Less than 9th grade,17.744808,People
+410670400,"Some college, no degree",303.91596500000003,People
+410670401,"9th to 12th grade, no diploma",23.250884000000003,People
+410670401,Associate's degree,73.41932600000001,People
+410670401,Bachelor's degree,405.07122400000003,People
+410670401,Graduate or professional degree,211.75791000000004,People
+410670401,High school graduate (includes equivalency),150.885824,People
+410670401,Less than 9th grade,2.7385260000000002,People
+410670401,"Some college, no degree",252.33355000000003,People
+410670402,"9th to 12th grade, no diploma",85.218113,People
+410670402,Associate's degree,168.432902,People
+410670402,Bachelor's degree,722.210116,People
+410670402,Graduate or professional degree,379.117519,People
+410670402,High school graduate (includes equivalency),344.52858,People
+410670402,Less than 9th grade,14.018991999999999,People
+410670402,"Some college, no degree",467.755981,People
+410670403,"9th to 12th grade, no diploma",47.181821,People
+410670403,Associate's degree,148.270677,People
+410670403,Bachelor's degree,658.494456,People
+410670403,Graduate or professional degree,414.065751,People
+410670403,High school graduate (includes equivalency),168.578767,People
+410670403,Less than 9th grade,38.242003,People
+410670403,"Some college, no degree",245.94493899999998,People
+410670404,"9th to 12th grade, no diploma",44.902023,People
+410670404,Associate's degree,111.175556,People
+410670404,Bachelor's degree,289.63345400000003,People
+410670404,Graduate or professional degree,125.712906,People
+410670404,High school graduate (includes equivalency),182.72340300000002,People
+410670404,Less than 9th grade,26.012446,People
+410670404,"Some college, no degree",261.867791,People
+410670405,"9th to 12th grade, no diploma",66.127036,People
+410670405,Associate's degree,108.936195,People
+410670405,Bachelor's degree,363.708823,People
+410670405,Graduate or professional degree,238.836826,People
+410670405,High school graduate (includes equivalency),255.07988999999998,People
+410670405,Less than 9th grade,18.426581,People
+410670405,"Some college, no degree",298.36975,People
+410670406,"9th to 12th grade, no diploma",41.830549999999995,People
+410670406,Associate's degree,232.083832,People
+410670406,Bachelor's degree,741.224457,People
+410670406,Graduate or professional degree,423.37156400000003,People
+410670406,High school graduate (includes equivalency),273.434809,People
+410670406,Less than 9th grade,26.82712,People
+410670406,"Some college, no degree",567.227348,People
+410670407,"9th to 12th grade, no diploma",56.812144,People
+410670407,Associate's degree,139.7635,People
+410670407,Bachelor's degree,688.874217,People
+410670407,Graduate or professional degree,525.7287709999999,People
+410670407,High school graduate (includes equivalency),180.112637,People
+410670407,Less than 9th grade,9.904301,People
+410670407,"Some college, no degree",390.43302100000005,People
+410670408,"9th to 12th grade, no diploma",36.182016000000004,People
+410670408,Associate's degree,451.09096200000005,People
+410670408,Bachelor's degree,692.809043,People
+410670408,Graduate or professional degree,420.83321,People
+410670408,High school graduate (includes equivalency),480.486717,People
+410670408,Less than 9th grade,64.045464,People
+410670408,"Some college, no degree",778.527011,People
+410670409,"9th to 12th grade, no diploma",59.941763,People
+410670409,Associate's degree,159.273016,People
+410670409,Bachelor's degree,548.8567800000001,People
+410670409,Graduate or professional degree,217.066347,People
+410670409,High school graduate (includes equivalency),312.842412,People
+410670409,Less than 9th grade,38.125214,People
+410670409,"Some college, no degree",464.221741,People
+410670410,"9th to 12th grade, no diploma",99.82975400000001,People
+410670410,Associate's degree,490.83351500000003,People
+410670410,Bachelor's degree,1491.342204,People
+410670410,Graduate or professional degree,942.6229320000001,People
+410670410,High school graduate (includes equivalency),653.7451530000001,People
+410670410,Less than 9th grade,64.413628,People
+410670410,"Some college, no degree",1214.850361,People
+410670411,"9th to 12th grade, no diploma",158.81759499999998,People
+410670411,Associate's degree,585.2327369999999,People
+410670411,Bachelor's degree,3331.534398,People
+410670411,Graduate or professional degree,2064.116277,People
+410670411,High school graduate (includes equivalency),1215.599861,People
+410670411,Less than 9th grade,109.1493,People
+410670411,"Some college, no degree",2056.597984,People
+410670412,"9th to 12th grade, no diploma",24.525049,People
+410670412,Associate's degree,166.083899,People
+410670412,Bachelor's degree,622.09634,People
+410670412,Graduate or professional degree,404.508778,People
+410670412,High school graduate (includes equivalency),348.874847,People
+410670412,Less than 9th grade,6.788081999999999,People
+410670412,"Some college, no degree",403.27141399999994,People
+410670413,"9th to 12th grade, no diploma",52.982271,People
+410670413,Associate's degree,214.508443,People
+410670413,Bachelor's degree,567.501167,People
+410670413,Graduate or professional degree,247.654154,People
+410670413,High school graduate (includes equivalency),397.937705,People
+410670413,Less than 9th grade,30.942196,People
+410670413,"Some college, no degree",542.3050929999999,People
+410670414,"9th to 12th grade, no diploma",1034.516535,People
+410670414,Associate's degree,2207.6449079999998,People
+410670414,Bachelor's degree,15748.99601,People
+410670414,Graduate or professional degree,9085.207182,People
+410670414,High school graduate (includes equivalency),6510.792818,People
+410670414,Less than 9th grade,291.822891,People
+410670414,"Some college, no degree",9107.07217,People
+410670415,"9th to 12th grade, no diploma",47.604476999999996,People
+410670415,Associate's degree,125.795565,People
+410670415,Bachelor's degree,411.51910399999997,People
+410670415,Graduate or professional degree,311.38124,People
+410670415,High school graduate (includes equivalency),308.51613199999997,People
+410670415,Less than 9th grade,4.5756879999999995,People
+410670415,"Some college, no degree",432.586781,People
+410670416,"9th to 12th grade, no diploma",149.862746,People
+410670416,Associate's degree,339.755744,People
+410670416,Bachelor's degree,1428.416396,People
+410670416,Graduate or professional degree,1040.648606,People
+410670416,High school graduate (includes equivalency),400.914313,People
+410670416,Less than 9th grade,78.67246399999999,People
+410670416,"Some college, no degree",727.4708109999999,People
+410670417,"9th to 12th grade, no diploma",185.24251,People
+410670417,Associate's degree,422.516915,People
+410670417,Bachelor's degree,1000.220955,People
+410670417,Graduate or professional degree,365.054687,People
+410670417,High school graduate (includes equivalency),917.9224350000001,People
+410670417,Less than 9th grade,116.20678099999999,People
+410670417,"Some college, no degree",1684.941644,People
+410670418,"9th to 12th grade, no diploma",122.806943,People
+410670418,Associate's degree,449.289518,People
+410670418,Bachelor's degree,1694.149384,People
+410670418,Graduate or professional degree,987.269777,People
+410670418,High school graduate (includes equivalency),883.651105,People
+410670418,Less than 9th grade,48.541987,People
+410670418,"Some college, no degree",1054.282773,People
+410670419,"9th to 12th grade, no diploma",10.523465,People
+410670419,Associate's degree,52.781922,People
+410670419,Bachelor's degree,174.304929,People
+410670419,Graduate or professional degree,151.728359,People
+410670419,High school graduate (includes equivalency),149.664072,People
+410670419,Less than 9th grade,1.570635,People
+410670419,"Some college, no degree",196.60252500000001,People
+410670420,"9th to 12th grade, no diploma",30.959972,People
+410670420,Associate's degree,129.076342,People
+410670420,Bachelor's degree,337.980706,People
+410670420,Graduate or professional degree,155.153398,People
+410670420,High school graduate (includes equivalency),197.508433,People
+410670420,Less than 9th grade,7.882397,People
+410670420,"Some college, no degree",307.22704699999997,People
+410670421,"9th to 12th grade, no diploma",95.124456,People
+410670421,Associate's degree,256.134596,People
+410670421,Bachelor's degree,1530.366184,People
+410670421,Graduate or professional degree,881.464064,People
+410670421,High school graduate (includes equivalency),616.90485,People
+410670421,Less than 9th grade,36.543824,People
+410670421,"Some college, no degree",819.070872,People
+410670422,"9th to 12th grade, no diploma",625.945837,People
+410670422,Associate's degree,296.536079,People
+410670422,Bachelor's degree,461.509822,People
+410670422,Graduate or professional degree,191.57178,People
+410670422,High school graduate (includes equivalency),1391.2652659999999,People
+410670422,Less than 9th grade,314.335258,People
+410670422,"Some college, no degree",1924.2774,People
+410670423,"9th to 12th grade, no diploma",53.94451,People
+410670423,Associate's degree,79.078313,People
+410670423,Bachelor's degree,213.915056,People
+410670423,Graduate or professional degree,110.02967699999999,People
+410670423,High school graduate (includes equivalency),182.9016,People
+410670423,Less than 9th grade,19.331875,People
+410670423,"Some college, no degree",316.315012,People
+410670424,"9th to 12th grade, no diploma",87.23845299999999,People
+410670424,Associate's degree,244.57517399999998,People
+410670424,Bachelor's degree,554.604545,People
+410670424,Graduate or professional degree,355.724819,People
+410670424,High school graduate (includes equivalency),424.124685,People
+410670424,Less than 9th grade,14.795761,People
+410670424,"Some college, no degree",586.163889,People
+410670425,"9th to 12th grade, no diploma",494.224578,People
+410670425,Associate's degree,1262.359015,People
+410670425,Bachelor's degree,4055.169466,People
+410670425,Graduate or professional degree,2094.559165,People
+410670425,High school graduate (includes equivalency),2641.2366070000003,People
+410670425,Less than 9th grade,144.292032,People
+410670425,"Some college, no degree",3529.039107,People
+410670426,"9th to 12th grade, no diploma",174.283613,People
+410670426,Associate's degree,284.184261,People
+410670426,Bachelor's degree,888.8401190000001,People
+410670426,Graduate or professional degree,477.009304,People
+410670426,High school graduate (includes equivalency),966.428112,People
+410670426,Less than 9th grade,55.054409,People
+410670426,"Some college, no degree",813.725376,People
+410670427,"9th to 12th grade, no diploma",130.026184,People
+410670427,Associate's degree,238.09399,People
+410670427,Bachelor's degree,2728.987142,People
+410670427,Graduate or professional degree,1731.9057699999998,People
+410670427,High school graduate (includes equivalency),1009.030516,People
+410670427,Less than 9th grade,48.995931999999996,People
+410670427,"Some college, no degree",1617.94117,People
+410670428,"9th to 12th grade, no diploma",206.62749100000002,People
+410670428,Associate's degree,425.924718,People
+410670428,Bachelor's degree,995.912132,People
+410670428,Graduate or professional degree,423.75444,People
+410670428,High school graduate (includes equivalency),1014.295176,People
+410670428,Less than 9th grade,73.045214,People
+410670428,"Some college, no degree",1798.075995,People
+410670429,"9th to 12th grade, no diploma",91.653704,People
+410670429,Associate's degree,287.463721,People
+410670429,Bachelor's degree,656.331112,People
+410670429,Graduate or professional degree,276.183872,People
+410670429,High school graduate (includes equivalency),362.495542,People
+410670429,Less than 9th grade,62.390123,People
+410670429,"Some college, no degree",570.509989,People
+410670430,"9th to 12th grade, no diploma",58.698871000000004,People
+410670430,Associate's degree,137.406703,People
+410670430,Bachelor's degree,263.792591,People
+410670430,Graduate or professional degree,153.876362,People
+410670430,High school graduate (includes equivalency),219.44072300000002,People
+410670430,Less than 9th grade,5.90742,People
+410670430,"Some college, no degree",256.849176,People
+410670431,"9th to 12th grade, no diploma",50.687591,People
+410670431,Associate's degree,200.528341,People
+410670431,Bachelor's degree,452.61754,People
+410670431,Graduate or professional degree,244.172648,People
+410670431,High school graduate (includes equivalency),216.23495300000002,People
+410670431,Less than 9th grade,2.814784,People
+410670431,"Some college, no degree",364.673002,People
+410670432,"9th to 12th grade, no diploma",379.826523,People
+410670432,Associate's degree,595.77183,People
+410670432,Bachelor's degree,742.258402,People
+410670432,Graduate or professional degree,198.18159000000003,People
+410670432,High school graduate (includes equivalency),1561.107688,People
+410670432,Less than 9th grade,185.856159,People
+410670432,"Some college, no degree",1457.450936,People
+410670433,"9th to 12th grade, no diploma",39.277656,People
+410670433,Associate's degree,131.884941,People
+410670433,Bachelor's degree,263.302618,People
+410670433,Graduate or professional degree,134.08616600000002,People
+410670433,High school graduate (includes equivalency),196.58502800000002,People
+410670433,Less than 9th grade,21.967135000000003,People
+410670433,"Some college, no degree",301.736267,People
+410670434,"9th to 12th grade, no diploma",34.674448,People
+410670434,Associate's degree,153.065325,People
+410670434,Bachelor's degree,418.22546800000003,People
+410670434,Graduate or professional degree,200.53741499999998,People
+410670434,High school graduate (includes equivalency),272.893203,People
+410670434,Less than 9th grade,12.021446000000001,People
+410670434,"Some college, no degree",309.481958,People
+410670435,"9th to 12th grade, no diploma",63.294774,People
+410670435,Associate's degree,101.312609,People
+410670435,Bachelor's degree,467.783647,People
+410670435,Graduate or professional degree,232.619535,People
+410670435,High school graduate (includes equivalency),297.351297,People
+410670435,Less than 9th grade,16.579388,People
+410670435,"Some college, no degree",416.247457,People
+410670436,"9th to 12th grade, no diploma",76.441846,People
+410670436,Associate's degree,106.380227,People
+410670436,Bachelor's degree,404.688737,People
+410670436,Graduate or professional degree,179.966692,People
+410670436,High school graduate (includes equivalency),218.51532,People
+410670436,Less than 9th grade,9.955455,People
+410670436,"Some college, no degree",333.42212,People
+410670437,"9th to 12th grade, no diploma",708.792384,People
+410670437,Associate's degree,1053.233052,People
+410670437,Bachelor's degree,2598.245873,People
+410670437,Graduate or professional degree,1149.792433,People
+410670437,High school graduate (includes equivalency),2428.8360159999997,People
+410670437,Less than 9th grade,171.27739,People
+410670437,"Some college, no degree",4252.223004,People
+410670438,"9th to 12th grade, no diploma",592.6020669999999,People
+410670438,Associate's degree,1204.30991,People
+410670438,Bachelor's degree,3461.250436,People
+410670438,Graduate or professional degree,1599.725304,People
+410670438,High school graduate (includes equivalency),2775.787186,People
+410670438,Less than 9th grade,209.861243,People
+410670438,"Some college, no degree",3224.349021,People
+410670439,"9th to 12th grade, no diploma",45.365597,People
+410670439,Associate's degree,106.66944000000001,People
+410670439,Bachelor's degree,374.91211400000003,People
+410670439,Graduate or professional degree,342.91663800000003,People
+410670439,High school graduate (includes equivalency),231.669698,People
+410670439,Less than 9th grade,16.356903000000003,People
+410670439,"Some college, no degree",333.94740700000006,People
+410670440,"9th to 12th grade, no diploma",189.038103,People
+410670440,Associate's degree,277.466174,People
+410670440,Bachelor's degree,900.2147520000001,People
+410670440,Graduate or professional degree,471.961517,People
+410670440,High school graduate (includes equivalency),1070.540013,People
+410670440,Less than 9th grade,53.657585000000005,People
+410670440,"Some college, no degree",847.8952770000001,People
+410670441,"9th to 12th grade, no diploma",19.0047,People
+410670441,Associate's degree,98.9947,People
+410670441,Bachelor's degree,729.9916000000001,People
+410670441,Graduate or professional degree,380.9948,People
+410670441,High school graduate (includes equivalency),571.964,People
+410670441,Less than 9th grade,3.9996,People
+410670441,"Some college, no degree",528.9909,People
+410670442,"9th to 12th grade, no diploma",76.010605,People
+410670442,Associate's degree,360.97071,People
+410670442,Bachelor's degree,1100.708615,People
+410670442,Graduate or professional degree,554.90607,People
+410670442,High school graduate (includes equivalency),473.01717,People
+410670442,Less than 9th grade,10.001515,People
+410670442,"Some college, no degree",800.94647,People
+410670443,"9th to 12th grade, no diploma",128,People
+410670443,Associate's degree,329,People
+410670443,Bachelor's degree,517,People
+410670443,Graduate or professional degree,155,People
+410670443,High school graduate (includes equivalency),488,People
+410670443,Less than 9th grade,19,People
+410670443,"Some college, no degree",675,People
+410710001,"9th to 12th grade, no diploma",58.441323,People
+410710001,Associate's degree,98.303377,People
+410710001,Bachelor's degree,599.42165,People
+410710001,Graduate or professional degree,387.063415,People
+410710001,High school graduate (includes equivalency),394.741136,People
+410710001,Less than 9th grade,38.223857,People
+410710001,"Some college, no degree",765.138377,People
+410710002,"9th to 12th grade, no diploma",104.253387,People
+410710002,Associate's degree,138.28656900000001,People
+410710002,Bachelor's degree,351.22997300000003,People
+410710002,Graduate or professional degree,160.221168,People
+410710002,High school graduate (includes equivalency),455.954729,People
+410710002,Less than 9th grade,12.645994,People
+410710002,"Some college, no degree",543.435668,People
+410710003,"9th to 12th grade, no diploma",73.944556,People
+410710003,Associate's degree,147.870303,People
+410710003,Bachelor's degree,421.807055,People
+410710003,Graduate or professional degree,225.62776499999998,People
+410710003,High school graduate (includes equivalency),416.73934399999996,People
+410710003,Less than 9th grade,18.537316,People
+410710003,"Some college, no degree",516.316459,People
+410710004,"9th to 12th grade, no diploma",61.445303,People
+410710004,Associate's degree,144.713675,People
+410710004,Bachelor's degree,433.587292,People
+410710004,Graduate or professional degree,212.89083300000001,People
+410710004,High school graduate (includes equivalency),301.48300600000005,People
+410710004,Less than 9th grade,12.276793000000001,People
+410710004,"Some college, no degree",806.542346,People
+410710007,"9th to 12th grade, no diploma",95.296824,People
+410710007,Associate's degree,145.032451,People
+410710007,Bachelor's degree,251.965291,People
+410710007,Graduate or professional degree,99.422417,People
+410710007,High school graduate (includes equivalency),394.263635,People
+410710007,Less than 9th grade,39.255267,People
+410710007,"Some college, no degree",416.921572,People
+410710009,"9th to 12th grade, no diploma",46.919435,People
+410710009,Associate's degree,96.32442499999999,People
+410710009,Bachelor's degree,214.210447,People
+410710009,Graduate or professional degree,149.68455,People
+410710009,High school graduate (includes equivalency),187.19083799999999,People
+410710009,Less than 9th grade,5.372319,People
+410710009,"Some college, no degree",221.079979,People
+410710010,"9th to 12th grade, no diploma",88.94772400000001,People
+410710010,Associate's degree,144.736253,People
+410710010,Bachelor's degree,273.165125,People
+410710010,Graduate or professional degree,92.899592,People
+410710010,High school graduate (includes equivalency),383.582214,People
+410710010,Less than 9th grade,18.754571,People
+410710010,"Some college, no degree",415.221923,People
+410710012,"9th to 12th grade, no diploma",87.34585,People
+410710012,Associate's degree,130.214951,People
+410710012,Bachelor's degree,212.891202,People
+410710012,Graduate or professional degree,123.131244,People
+410710012,High school graduate (includes equivalency),423.987069,People
+410710012,Less than 9th grade,13.115154000000002,People
+410710012,"Some college, no degree",406.01849500000003,People
+410710013,"9th to 12th grade, no diploma",106.145218,People
+410710013,Associate's degree,115.96887000000001,People
+410710013,Bachelor's degree,208.594845,People
+410710013,Graduate or professional degree,71.086173,People
+410710013,High school graduate (includes equivalency),327.425306,People
+410710013,Less than 9th grade,7.939569,People
+410710013,"Some college, no degree",244.347982,People
+410710014,"9th to 12th grade, no diploma",140.738369,People
+410710014,Associate's degree,130.037915,People
+410710014,Bachelor's degree,319.914969,People
+410710014,Graduate or professional degree,219.70257599999997,People
+410710014,High school graduate (includes equivalency),375.37556,People
+410710014,Less than 9th grade,16.964808,People
+410710014,"Some college, no degree",745.660125,People
+410710015,"9th to 12th grade, no diploma",110.50695700000001,People
+410710015,Associate's degree,145.998965,People
+410710015,Bachelor's degree,121.72714300000001,People
+410710015,Graduate or professional degree,100.78934500000001,People
+410710015,High school graduate (includes equivalency),275.806875,People
+410710015,Less than 9th grade,54.828411,People
+410710015,"Some college, no degree",552.693812,People
+410710016,"9th to 12th grade, no diploma",104.281147,People
+410710016,Associate's degree,239.65036600000002,People
+410710016,Bachelor's degree,257.562527,People
+410710016,Graduate or professional degree,208.454426,People
+410710016,High school graduate (includes equivalency),487.896247,People
+410710016,Less than 9th grade,35.852713,People
+410710016,"Some college, no degree",507.252624,People
+410710017,"9th to 12th grade, no diploma",63.17208600000001,People
+410710017,Associate's degree,151.972151,People
+410710017,Bachelor's degree,288.017827,People
+410710017,Graduate or professional degree,187.56403600000002,People
+410710017,High school graduate (includes equivalency),259.750888,People
+410710017,Less than 9th grade,22.069136999999998,People
+410710017,"Some college, no degree",379.393343,People
+410710018,"9th to 12th grade, no diploma",133.774928,People
+410710018,Associate's degree,218.646263,People
+410710018,Bachelor's degree,510.070363,People
+410710018,Graduate or professional degree,361.701053,People
+410710018,High school graduate (includes equivalency),578.836936,People
+410710018,Less than 9th grade,75.770381,People
+410710018,"Some college, no degree",702.361202,People
+410710019,"9th to 12th grade, no diploma",102.000598,People
+410710019,Associate's degree,79.694038,People
+410710019,Bachelor's degree,134.054917,People
+410710019,Graduate or professional degree,43.674691,People
+410710019,High school graduate (includes equivalency),277.747369,People
+410710019,Less than 9th grade,29.134707000000002,People
+410710019,"Some college, no degree",237.114064,People
+410710020,"9th to 12th grade, no diploma",47.493,People
+410710020,Associate's degree,97.675344,People
+410710020,Bachelor's degree,251.11460499999998,People
+410710020,Graduate or professional degree,160.24990200000002,People
+410710020,High school graduate (includes equivalency),269.198535,People
+410710020,Less than 9th grade,18.902992,People
+410710020,"Some college, no degree",323.250902,People
+410710021,"9th to 12th grade, no diploma",91.163672,People
+410710021,Associate's degree,152.998828,People
+410710021,Bachelor's degree,236.26461600000002,People
+410710021,Graduate or professional degree,51.156774,People
+410710021,High school graduate (includes equivalency),353.161454,People
+410710021,Less than 9th grade,16.281601000000002,People
+410710021,"Some college, no degree",328.59906900000004,People
+410710022,"9th to 12th grade, no diploma",94.36671700000001,People
+410710022,Associate's degree,300.83613,People
+410710022,Bachelor's degree,374.017408,People
+410710022,Graduate or professional degree,269.41884,People
+410710022,High school graduate (includes equivalency),538.341106,People
+410710022,Less than 9th grade,15.111913000000001,People
+410710022,"Some college, no degree",629.253854,People
+410710026,"9th to 12th grade, no diploma",123.936314,People
+410710026,Associate's degree,114.371456,People
+410710026,Bachelor's degree,89.867973,People
+410710026,Graduate or professional degree,24.192736,People
+410710026,High school graduate (includes equivalency),421.48731499999997,People
+410710026,Less than 9th grade,7.3476,People
+410710026,"Some college, no degree",297.706234,People
+410710027,"9th to 12th grade, no diploma",81.630292,People
+410710027,Associate's degree,131.16832200000002,People
+410710027,Bachelor's degree,83.359943,People
+410710027,Graduate or professional degree,19.293145,People
+410710027,High school graduate (includes equivalency),344.925717,People
+410710027,Less than 9th grade,3.822998,People
+410710027,"Some college, no degree",196.712673,People
+410710028,"9th to 12th grade, no diploma",113.73634200000001,People
+410710028,Associate's degree,77.043418,People
+410710028,Bachelor's degree,120.84820200000001,People
+410710028,Graduate or professional degree,35.753052,People
+410710028,High school graduate (includes equivalency),293.42123000000004,People
+410710028,Less than 9th grade,31.51141,People
+410710028,"Some college, no degree",235.368364,People
